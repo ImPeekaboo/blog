@@ -1,12 +1,8 @@
-<?xml version="1.0" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
- "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
 <svg version="1.0" xmlns="http://www.w3.org/2000/svg"
  width="2020.000000pt" height="260.000000pt" viewBox="0 0 2020.000000 260.000000"
- preserveAspectRatio="xMidYMid meet" id="aympnyt-logo">
+ preserveAspectRatio="xMidYMid meet" transform="translate(0.000000,260.000000) scale(0.100000,-0.100000)"
+fill="#000000" stroke="none" id="aympnyt-logo">
 
-<g transform="translate(0.000000,260.000000) scale(0.100000,-0.100000)"
-fill="#000000" stroke="none">
 <path d="M4771 2549 c-173 -21 -339 -83 -492 -185 -106 -70 -106 -74 -9 -74
 73 0 88 3 129 28 68 42 188 89 288 114 69 17 116 21 223 21 172 -1 286 -29
 447 -108 110 -55 113 -56 189 -53 l76 3 -63 48 c-103 77 -267 153 -391 181
@@ -93,5 +89,4 @@ m213 -202 c32 -16 69 -87 69 -132 l0 -32 -165 0 c-151 0 -165 2 -165 18 0 24
 <path d="M5122 1213 c-105 -180 -295 -510 -391 -677 l-45 -79 28 -51 c63 -114
 190 -326 195 -326 3 0 45 69 93 153 47 84 121 213 164 287 42 74 163 284 267
 465 105 182 201 349 214 373 l25 42 -220 0 -220 0 -110 -187z"/>
-</g>
 </svg>
