@@ -5,7 +5,6 @@ SPDX-License-Identifier: LGPL-2.1-or-later
 ---
 
 ## Example Video
-
 &nbsp;
 
 <video id="my-video" class="video-js vjs-fluid vjs-layout-medium" poster="https://media.discordapp.net/attachments/1074079942792462478/1082014257161457774/20230306_025643.jpg" preload="auto" controls="controls" data-setup='{}'>
