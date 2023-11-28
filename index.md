@@ -16,5 +16,5 @@ Other parts include a logging daemon, utilities to control basic system configur
 
 ## Contoh Daftar Halaman
 
-* [Halaman 1](halaman1.md)
+* [Video Page](video.md)
 * [Halaman 2](halaman2.md)
