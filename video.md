@@ -14,4 +14,8 @@ SPDX-License-Identifier: LGPL-2.1-or-later
   </video>
 </div>
 
+<a href="../image/" class="button" role="button">
+  Image Page
+</a>
+
 ---
