@@ -18,9 +18,11 @@ This is example page for image display.
 
 ## Button Example
 
-<a href="video.md" class="button" role="button">
-  Video Page
-</a>
+<button class="button" role="button">
+  [Video Page](video.md)
+</button>
+
+[Video Page](video.md)
 
 ---
 
