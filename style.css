@@ -208,7 +208,7 @@ th:last-child, td:last-child {
 
 /* Singletons */
 header {
-  max-height: 50% !important;
+  background-color: red;
 }
 .page-logo {
   display: block;
