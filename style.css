@@ -209,7 +209,7 @@ th:last-child, td:last-child {
 /* Singletons */
 .page-logo {
   display: block;
-  padding: 5rem 0 3rem;
+  padding: 1rem 0 2rem;
   color: var(--sd-logo-color);
 }
 .page-logo > svg {
