@@ -209,11 +209,12 @@ th:last-child, td:last-child {
 /* Singletons */
 .page-logo {
   display: block;
-  padding: 1rem 0 2rem;
+  padding: 5rem 0 3rem;
   color: var(--sd-logo-color);
 }
 .page-logo > svg {
   display: block;
+  padding: 1rem 0 2rem;
   width: 12.625em;
   height: auto;
   margin: 0 auto;
