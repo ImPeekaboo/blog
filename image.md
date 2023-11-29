@@ -22,8 +22,6 @@ This is example page for image display.
   Video Page
 </a>
 
-[Video Page](video.md)
-
 ---
 
 Uploaded by aympnyt 😶
