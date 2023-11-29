@@ -139,6 +139,7 @@ hr {
   width: 100%;
   margin-left: auto;
   margin-right: auto;
+  margin-top: calc(100% + 0.6rem);
   max-width: 720px;
 }
 
