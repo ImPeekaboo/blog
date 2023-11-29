@@ -1,6 +1,6 @@
 # Site settings
 # SPDX-License-Identifier: LGPL-2.1-or-later
-title: systemd
+title: Ayam Penyet
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://impeekaboo.github.io" # the base hostname & protocol for your site
 
