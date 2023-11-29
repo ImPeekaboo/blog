@@ -14,8 +14,4 @@ SPDX-License-Identifier: LGPL-2.1-or-later
   </video>
 </div>
 
-This is example page for video player.
-
 ---
-
-Uploaded by aympnyt 😶
