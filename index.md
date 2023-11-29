@@ -16,5 +16,12 @@ SPDX-License-Identifier: LGPL-2.1-or-later
 * [Hoshimachi Suisei](suisei.md)
 * [Minato Aqua](aqua.md)
 * [Tokoyami Towa](towa.md)
+* [Tokino Sora](sora.md)
+* [Oher Member](solomix.md)
+
+## Other Content
+* [Group Concert](groupmix.md)
+* [Moona Unarchive Karaoke](moonutau.md)
+* [Restream](restream.md)
 
 ---
