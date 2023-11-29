@@ -155,7 +155,7 @@ hr {
 /* Button */
 .button {
   appearance: none;
-  background-color: var(--sd-button-color);
+  background-color: var(--sd-background-color);
   border: 3px solid rgba(48, 212, 117, 1);
   border-radius: 6px;
   box-shadow: rgba(48, 212, 117, 0.04) 0 1px 0, rgba(255, 255, 255, 0.25) 0 1px 0 inset;
@@ -180,20 +180,20 @@ hr {
 }
 
 .button:hover {
-  background-color: var(--sd-button-color);
+  background-color: var(--sd-background-color);
   text-decoration: none;
   transition-duration: 0.1s;
 }
 
 .button:disabled {
-  background-color: var(--sd-button-color);
+  background-color: var(--sd-background-color);
   border-color: rgba(48, 212, 117, 1);
   color: var(--sd-foreground-color);
   cursor: default;
 }
 
 .button:active {
-  background-color: var(--sd-button-color);
+  background-color: var(--sd-background-color);
   box-shadow: rgba(225, 228, 232, 0.2) 0 1px 0 inset;
   transition: none 0s;
 }
