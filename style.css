@@ -207,6 +207,8 @@ th:last-child, td:last-child {
 }
 
 /* Singletons */
+header {
+  max-height: 50%
 .page-logo {
   display: block;
   padding: 5rem 0 3rem;
