@@ -207,10 +207,6 @@ th:last-child, td:last-child {
 }
 
 /* Singletons */
-header.site-header {
-  padding-top: 1rem;
-  padding-bottom: 2rem;
-}
 .page-logo {
   display: block;
   padding: 5rem 0 3rem;
