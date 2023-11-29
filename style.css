@@ -214,7 +214,6 @@ th:last-child, td:last-child {
 }
 .page-logo > svg {
   display: block;
-  padding: 1rem 0 2rem;
   width: 12.625em;
   height: auto;
   margin: 0 auto;
