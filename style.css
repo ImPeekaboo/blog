@@ -207,6 +207,9 @@ th:last-child, td:last-child {
 }
 
 /* Singletons */
+header.site-header {
+  height: 3rem;
+}
 .page-logo {
   display: block;
   padding: 5rem 0 3rem;
