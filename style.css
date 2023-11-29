@@ -207,7 +207,7 @@ th:last-child, td:last-child {
 }
 
 /* Singletons */
-header {
+.wrapper {
   background-color: red;
 }
 .page-logo {
