@@ -3,7 +3,6 @@ title: Ayam Penyet
 layout: default
 SPDX-License-Identifier: LGPL-2.1-or-later
 ---
-
 ---
 
 ## Hololive Fest Concert
