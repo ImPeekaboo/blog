@@ -69,7 +69,7 @@ SPDX-License-Identifier: LGPL-2.1-or-later
   Streaming Here
 </a>
 
-## [20230304] Karaoke time? !? !? !? !?
+## [20230304] Karaoke time?!?!?!?!?
 
 <div class="container">
   <img src="https://media.discordapp.net/attachments/1083515523846914179/1083518931081375806/20230304.jpg" alt="moona-230304"/>
