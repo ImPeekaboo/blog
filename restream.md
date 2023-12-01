@@ -14,6 +14,8 @@ SPDX-License-Identifier: LGPL-2.1-or-later
   </video-js>
 </div>
 
-media.discordapp.net/attachments/685908825051496569/1085364372819419186/perisai-jitu_moona-risu-kobo.mp4
+## Link
+
+https://media.discordapp.net/attachments/685908825051496569/1085364372819419186/perisai-jitu_moona-risu-kobo.mp4
 
 ---
