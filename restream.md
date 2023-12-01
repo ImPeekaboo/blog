@@ -1,12 +1,12 @@
 ---
 title: Restream
-layout: video
+layout: test
 SPDX-License-Identifier: LGPL-2.1-or-later
 ---
 
 ---
 
-##  Linkj ssjcj skskc nsms kfkdk skmfdk fnsknc skcndk vndkdk djcndkf kfkdkvn dkskfms kfjskf owokff pwpwl sdnkal Kzjd jdks kfkdksl cndkfjsne nsoz jdjsjsk
+##  Restream
 
 <div class="container">
   <video id="my-video" class="video-js vjs-fluid vjs-layout-medium" poster="https://media.discordapp.net/attachments/1074079942792462478/1082014257161457774/20230306_025643.jpg" preload="auto" controls="controls" data-setup='{}'>
