@@ -47,7 +47,29 @@
     <script src="https://cdn.jsdelivr.net/npm/videojs-mobile-ui/dist/videojs-mobile-ui.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/videojs-landscape-fullscreen/dist/videojs-landscape-fullscreen.min.js"></script>
     <script>
-      var player = videojs('my-video');
+      var player = videojs("my_video_1", {
+        controlBar: {
+          volumePanel: {
+            inline: false
+          },
+          children: [
+            'playToggle',
+            'volumePanel',
+            'currentTimeDisplay',
+            'progressControl',
+            'liveDisplay',
+            'seekToLive',
+            'durationDisplay',
+            'customControlSpacer',
+            'playbackRateMenuButton',
+            'chaptersButton',
+            'descriptionsButton',
+            'subsCapsButton',
+            'audioTrackButton',
+            'fullscreenToggle'
+          ]
+        }
+      });
 
       player.mobileUi({
         fullscreen: {
