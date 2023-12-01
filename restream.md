@@ -1,6 +1,6 @@
 ---
 title: Restream
-layout: video
+layout: test
 SPDX-License-Identifier: LGPL-2.1-or-later
 ---
 
