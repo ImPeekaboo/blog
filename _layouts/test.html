@@ -51,9 +51,10 @@
       var player = videojs("my-video", {
 	html5: {
           vhs: {
-            withCredentials: true,
-	    overrideNative: true
-          }
+	    overrideNative: false
+          },
+	  nativeAudioTracks: true,
+          nativeVideoTracks: true
         },
         controlBar: {
           volumePanel: {
