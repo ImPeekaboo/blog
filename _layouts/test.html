@@ -49,6 +49,11 @@
     <!--script src="https://unpkg.com/@videojs/http-streaming@3.7.0/dist/videojs-http-streaming.min.js"></script-->
     <script>
       var player = videojs("my-video", {
+	html5: {
+          vhs: {
+            withCredentials: true
+          }
+        },
         controlBar: {
           volumePanel: {
             inline: false
