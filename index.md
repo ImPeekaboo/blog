@@ -19,7 +19,7 @@ SPDX-License-Identifier: LGPL-2.1-or-later
 * [Minato Aqua](aqua.md)
 * [Tokoyami Towa](towa.md)
 * [Tokino Sora](sora.md)
-* [Oher Solo Concert](solomix.md)
+* [Other Solo Concert](solomix.md)
 
 ## Other Content
 * [Moona Unarchive Karaoke](moonutau.md)
