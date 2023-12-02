@@ -12,7 +12,6 @@ SPDX-License-Identifier: LGPL-2.1-or-later
 * [hololive 3rd fes. Link Your Wish](fes3rd.md)
 * [hololive 4th fes. Our Bright Parade](fes4th.md)
 * [Other Group Concert](groupmix.md)
-  
 
 ## Hololive Solo Concert
 * [Hoshimachi Suisei](suisei.md)
