@@ -1,12 +1,12 @@
 ---
-title: Tsunomaki Watame 1st Live “Watame Night Fever!! in Zepp Tokyo” Supported By Bushiroad
+title: Tsunomaki Watame 1st Live “Watame Night Fever!! in Zepp Tokyo”
 layout: video
 SPDX-License-Identifier: LGPL-2.1-or-later
 ---
 
 ---
 
-##  Tsunomaki Watame 1st Live “Watame Night Fever!! in Zepp Tokyo” Supported By Bushiroad
+##  Tsunomaki Watame 1st Live “Watame Night Fever!! in Zepp Tokyo”
 
 <div class="container">
   <video-js id="my-video" class="vjs-fluid vjs-layout-medium" controls preload="auto" poster="https://media.discordapp.net/attachments/1180439977784516618/1180442773111980092/watame.jpg">
