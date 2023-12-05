@@ -6,6 +6,24 @@ SPDX-License-Identifier: LGPL-2.1-or-later
 
 ---
 
+## [20231116] Just having fun in karaoke
+
+<div class="container">
+  <img src="https://media.discordapp.net/attachments/1083515523846914179/1181425093260349580/20231116.jpg" alt="moona-231116"/>
+</div>
+<a href="../moona-231116/" class="button" role="button">
+  Streaming Here
+</a>
+
+## [20231101] Morning Karaoke!!
+
+<div class="container">
+  <img src="https://media.discordapp.net/attachments/1083515523846914179/1181425022657626152/20231101.jpg" alt="moona-231101"/>
+</div>
+<a href="../moona-231101/" class="button" role="button">
+  Streaming Here
+</a>
+
 ## [20230921] Morning Karaoke!!
 
 <div class="container">
