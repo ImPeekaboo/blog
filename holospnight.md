@@ -1,5 +1,5 @@
 ---
-title: hololive Summer 2023 3DLIVE Splash Party! Day 2: Night
+title: 'hololive Summer 2023 3DLIVE Splash Party! Day 2: Night'
 layout: video
 SPDX-License-Identifier: LGPL-2.1-or-later
 ---
