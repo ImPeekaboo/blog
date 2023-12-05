@@ -15,7 +15,7 @@ SPDX-License-Identifier: LGPL-2.1-or-later
   Streaming Here
 </a>
 
-## Nekomata Okayu 1st Live. “POISONYA SYNDROME” Supported By Bushiroad
+## Nekomata Okayu 1st Live. “POISONYA SYNDROME”
 
 <div class="container">
   <img src="https://media.discordapp.net/attachments/1180439977784516618/1180442742527107143/okayu.png" alt="okayu"/>
@@ -51,7 +51,7 @@ SPDX-License-Identifier: LGPL-2.1-or-later
   Streaming Here
 </a>
 
-## Tsunomaki Watame 1st Live “Watame Night Fever!! in Zepp Tokyo” Supported By Bushiroad
+## Tsunomaki Watame 1st Live “Watame Night Fever!! in Zepp Tokyo”
 
 <div class="container">
   <img src="https://media.discordapp.net/attachments/1180439977784516618/1180442773111980092/watame.jpg" alt="watame"/>
