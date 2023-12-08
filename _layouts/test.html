@@ -46,10 +46,9 @@
 
     <script src="https://vjs.zencdn.net/8.6.1/video.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/videojs-mobile-ui/dist/videojs-mobile-ui.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/videojs-landscape-fullscreen/dist/videojs-landscape-fullscreen.min.js"></script>
     <script src="/videojs-quality-selector-hls.min.js"></script>
     <script>
-      var player = videojs("my-video", {
+      videojs("my-video", {
         controlBar: {
           volumePanel: {
             inline: false
@@ -70,21 +69,21 @@
             'audioTrackButton',
             'fullscreenToggle'
           ]
-        }
-      });
-
-      player.mobileUi({
-        fullscreen: {
-	  disabled: true
+        },
+	plugins: {
+	  mobileUi: {
+	    fullscreen: {
+	      enterOnRotate: false,
+              exitOnRotate: false,
+              lockOnRotate: false,
+              lockToLandscapeOnEnter: true
+	    }
+	  },
+	  qualitySelectorHls: {
+	    displayCurrentQuality: true
+	  }
 	}
       });
-      player.landscapeFullscreen({
-        fullscreen: {
-	  enterOnRotate: false,
-          exitOnRotate: false
-	}
-      });
-      player.qualitySelectorHls({displayCurrentQuality: true});
     </script>
 
     {% include footer.html %}
