@@ -9,7 +9,7 @@ SPDX-License-Identifier: LGPL-2.1-or-later
 ## [20240106] Singing time let's gooo!!
 
 <div class="container">
-  <img src="https://media.discordapp.net/attachments/1083515523846914179/1193474728611041330/20240106.jpg" alt="moona-240106"/>
+  <img src="https://anime.ayampenyet.eu.org/api/raw/?path=/other/thumbnail-karaoke/20240106.jpg" alt="moona-240106"/>
 </div>
 <a href="../moona-240106/" class="button" role="button">
   Streaming Here
