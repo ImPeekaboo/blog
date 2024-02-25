@@ -9,7 +9,7 @@ SPDX-License-Identifier: LGPL-2.1-or-later
 ## hololive 2nd fes. Beyond the Stage Day 1
 
 <div class="container">
-  <img src="https://media.discordapp.net/attachments/1181190364565094432/1181403468322320404/fes2nd1.jpg" alt="fes2nd1"/>
+  <img src="https://xx58j-my.sharepoint.com/:i:/g/personal/akunanime_xx58j_onmicrosoft_com/EVIVkTdm8oJPk1ttrW0oU7EBs2LsWhUJOdQ6vBLMXGsxAA?download=1" alt="fes2nd1"/>
 </div>
 <a href="../fes2nd1/" class="button" role="button">
   Streaming Here
@@ -18,7 +18,7 @@ SPDX-License-Identifier: LGPL-2.1-or-later
 ## hololive 2nd fes. Beyond the Stage Day 2
 
 <div class="container">
-  <img src="https://media.discordapp.net/attachments/1181190364565094432/1181403468607524955/fes2nd2.jpg" alt="fes2nd2"/>
+  <img src="https://xx58j-my.sharepoint.com/:i:/g/personal/akunanime_xx58j_onmicrosoft_com/Eeq61Mq2FRBNmT8n-A2byOwBvxeCMcMDW2z3lbbNKVIKcQ?download=1" alt="fes2nd2"/>
 </div>
 <a href="../fes2nd2/" class="button" role="button">
   Streaming Here
