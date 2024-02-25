@@ -1,6 +1,6 @@
 ---
 title: Testing
-layout: test
+layout: video
 SPDX-License-Identifier: LGPL-2.1-or-later
 ---
 
@@ -10,7 +10,7 @@ SPDX-License-Identifier: LGPL-2.1-or-later
 
 <div class="container">
   <video-js id="my-video" class="vjs-fluid vjs-layout-medium" controls preload="auto" poster="https://xx58j-my.sharepoint.com/:i:/g/personal/akunanime_xx58j_onmicrosoft_com/EfWcvJBJCipGpsIBhMM4_jMBzVNTJbChC_90yjNKhr0Ahw?download=1">
-    <source src="https://mie.ayam.eu.org:6969/aHR0cHM6Ly9tYW5pZmVzdC5nb29nbGV2aWRlby5jb20vYXBpL21hbmlmZXN0L2hsc192YXJpYW50L2V4cGlyZS8xNzAzNTc2MTYwL2VpL0FDNktaWjNGSk42QTNMVVA3N0tnTUEvaXAvMzguOS4xMzYuMzIvaWQvd19XV0J5X0F6S28uMS9zb3VyY2UveXRfbGl2ZV9icm9hZGNhc3QvcmVxdWlyZXNzbC95ZXMveHBjL0VnVm8yYURTTlElM0QlM0QvaGZyLzEvbWF4aC80MzIwL3NpdS8xL3NwYy9VV0Y5ZjlyeDRNNGJFT1FMaUF2OVJYWGRPNEdyWVpXUmFlNmpXQlpPV2JUY0tQZmxmV1g4Q193L3ZwcnYvMS9nby8xL3BhY2luZy8wL252Z29pLzEva2VlcGFsaXZlL3llcy9mZXhwLzI0MDA3MjQ2L2RvdmVyLzExL2l0YWcvMC9wbGF5bGlzdF90eXBlL0xJVkUvc3BhcmFtcy9leHBpcmUlMkNlaSUyQ2lwJTJDaWQlMkNzb3VyY2UlMkNyZXF1aXJlc3NsJTJDeHBjJTJDaGZyJTJDbWF4aCUyQ3NpdSUyQ3NwYyUyQ3ZwcnYlMkNnbyUyQ2l0YWclMkNwbGF5bGlzdF90eXBlL3NpZy9BSmZRZFNzd1JRSWdJeFFKd3lBWEt4cUg4MkpKVlM4bUdLUmpnb2NnM19vZVMtUmRrNzZrQU9VQ0lRRFJrSjBjaVJ2WjNMTDd0OE1mek9aNmJvRG9tbTU4THhJaGE2dTdYXzhSYlElM0QlM0QvZmlsZS9pbmRleC5tM3U4.m3u8" type="application/x-mpegurl"/>
+    <source src="https://drive.ayam.eu.org:6969/aHR0cHM6Ly9lZGdlMTUtbnJ0LmxpdmUubW1jZG4uY29tL2xpdmUtaGxzL2FtbHN0OmVteWlpLXNkLTE2NjBjMDAyOTFhYjIwY2RlYjlmOGFjZDUzMTE5MDE4NjUyZWY3NzkzYzlkNWFhMjliMzQ2NzE4OTM4MmM1MmJfdHJuc19oMjY0L2NodW5rbGlzdF93NzgzNDc0NTk4X2I1MTI4MDAwX3Q2NFJsQlRPak13TGpBPS5tM3U4.m3u8" type="application/x-mpegurl"/>
   </video-js>
 </div>
 
