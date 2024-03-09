@@ -47,6 +47,7 @@
   --sd-table-row-bg: var(--sd-highlight-inline-bg-light);
   --sd-table-row-hover-bg: var(--sd-gray);
   --sd-button-color: hsl(30, 10%, 76%);
+  --disqus-background-color: #f6f5f4;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -63,6 +64,7 @@
     --sd-table-row-bg: var(--sd-highlight-inline-bg-dark);
     --sd-table-row-hover-bg: var(--sd-highlight-bg-dark);
     --sd-button-color: hsl(270, 7%, 33%);
+    --disqus-background-color: 	#211f23;
   }
 }
 
@@ -212,7 +214,7 @@ hr {
 
 /* Disqus */
 #disqus_thread {
-  background-color: var(--sd-background-color);
+  background-color: var(--disqus-background-color);
 }
 
 /* Tables */
