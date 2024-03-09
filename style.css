@@ -212,7 +212,7 @@ hr {
 
 /* Disqus */
 #disqus_thread {
-  background: var(--sd-background-color);
+  background-color: var(--sd-background-color);
 }
 
 /* Tables */
