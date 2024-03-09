@@ -210,6 +210,11 @@ hr {
   display: none;
 }
 
+/* Disqus */
+#disqus_thread {
+  background: var(--sd-background-color);
+}
+
 /* Tables */
 table {
   width: auto !important;
