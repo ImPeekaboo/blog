@@ -8,3 +8,8 @@ permalink: /:title/
 
 # Build settings
 markdown: kramdown
+
+# google comment
+comment-read: https://docs.google.com/spreadsheets/d/1KDQagSWW_P013eMKusWm795Zmg34xiW6AZQIapcYOWg
+comment-post: https://docs.google.com/forms/d/e/1FAIpQLSdFra7WIwvEWTYr36rfUpdpUT2AQDWZ84FJbFEYGWTCH9WSkw
+comment-post-fields: [ entry.994439001, entry.615805825, entry.1334446916]
