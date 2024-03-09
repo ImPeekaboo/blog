@@ -47,7 +47,7 @@
   --sd-table-row-bg: var(--sd-highlight-inline-bg-light);
   --sd-table-row-hover-bg: var(--sd-gray);
   --sd-button-color: hsl(30, 10%, 76%);
-  --disqus-background-color: #f6f5f4;
+  --disqus-background-color: rgb(246, 245, 244); /* #f6f5f4 */
 }
 
 @media (prefers-color-scheme: dark) {
@@ -64,7 +64,7 @@
     --sd-table-row-bg: var(--sd-highlight-inline-bg-dark);
     --sd-table-row-hover-bg: var(--sd-highlight-bg-dark);
     --sd-button-color: hsl(270, 7%, 33%);
-    --disqus-background-color: #211f23;
+    --disqus-background-color: rgb(33, 31, 35); /* #211f23 */
   }
 }
 
