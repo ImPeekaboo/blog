@@ -64,7 +64,7 @@
     --sd-table-row-bg: var(--sd-highlight-inline-bg-dark);
     --sd-table-row-hover-bg: var(--sd-highlight-bg-dark);
     --sd-button-color: hsl(270, 7%, 33%);
-    --disqus-background-color: 	#211f23;
+    --disqus-background-color: #211f23;
   }
 }
 
@@ -213,7 +213,7 @@ hr {
 }
 
 /* Disqus */
-#disqus_thread {
+#dsq-content #dsq-comments .dsq-comment-body {
   background-color: var(--disqus-background-color);
 }
 
