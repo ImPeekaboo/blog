@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<!-- SPDX-License-Identifier: LGPL-2.1-or-later -->
+
+<html lang="en">
+
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#201A26">
+
+    <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+
+    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+
+    <link rel="stylesheet" href="{{ "/style.css" | prepend: site.baseurl }}">
+
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+
+    <link href="https://vjs.zencdn.net/8.6.1/video-js.css" rel="stylesheet" />
+    <link href="https://cdn.jsdelivr.net/npm/videojs-mobile-ui/dist/videojs-mobile-ui.css" rel="stylesheet" />
+    <style type="text/css">
+      .video-js .vjs-current-time,
+      .video-js .vjs-duration {
+        display: block;
+      }
+      .vjs-live .vjs-current-time,
+      .vjs-live .vjs-duration,
+      .video-js .vjs-remaining-time,
+      .video-js .vjs-picture-in-picture-control,
+      .vjs-touch-overlay .vjs-play-control {
+        display: none;
+      }
+    </style>
+  </head>
+
+  <body>
+
+    {% include header.html %}
+
+    <div class="container">
+      {{ content }}
+    </div>
+
+    <div class="notecomments">
+      {% include disqus.html %}
+    </div>
+
+    <script src="https://vjs.zencdn.net/8.6.1/video.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/videojs-mobile-ui/dist/videojs-mobile-ui.min.js"></script>
+    <script>
+      videojs("my-video", {
+        controlBar: {
+          volumePanel: {
+            inline: false
+          },
+          children: [
+            'playToggle',
+            'volumePanel',
+            'currentTimeDisplay',
+            'progressControl',
+            'durationDisplay',
+            'liveDisplay',
+            'seekToLive',
+            'customControlSpacer',
+            'playbackRateMenuButton',
+            'chaptersButton',
+            'descriptionsButton',
+            'subsCapsButton',
+            'audioTrackButton',
+            'fullscreenToggle'
+          ]
+        },
+	plugins: {
+	  mobileUi: {
+	    fullscreen: {
+	      enterOnRotate: false,
+              exitOnRotate: false,
+              lockOnRotate: false,
+              lockToLandscapeOnEnter: true
+	    }
+	  }
+	}
+      });
+    </script>
+
+    {% include footer.html %}
+
+  </body>
+
+</html>
