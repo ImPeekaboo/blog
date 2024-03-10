@@ -1,6 +1,6 @@
 ---
 title: Moona Unarchive Karaoke
-layout: default
+layout: default-google
 SPDX-License-Identifier: LGPL-2.1-or-later
 ---
 
