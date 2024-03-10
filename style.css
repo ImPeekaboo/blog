@@ -28,7 +28,7 @@
   --sd-blue: hsl(200, 66%, 55%);
 
   --sd-highlight-bg-light: rgba(255, 255, 255, 1);
-  --sd-highlight-bg-dark: rgba(0, 0, 0, .6);
+  --sd-highlight-bg-dark: rgba(0, 0, 0, 0.6);
   --sd-highlight-inline-bg-light: rgba(0, 0, 0, 0.07);
   --sd-highlight-inline-bg-dark: rgba(255, 255, 255, 0.1);
 
