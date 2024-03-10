@@ -92,6 +92,7 @@ h1, h2, h3, h4, h5, h6 {
   margin: 1rem 0 0.625rem;
   font-weight: 600;
   line-height: 1.25;
+  overflow-wrap: break-word;
 }
 h1 {
   text-align: center;
@@ -117,6 +118,7 @@ a {
   text-decoration: none;
   color: var(--sd-link-color);
   cursor: pointer;
+  overflow-wrap: break-word;
 }
 a:hover {
   text-decoration: underline;
