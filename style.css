@@ -125,9 +125,11 @@ a:hover {
 }
 b {
   font-weight: 600;
+  overflow-wrap: break-word;
 }
 small {
   color: var(--sd-small-color);
+  overflow-wrap: break-word;
 }
 hr {
   margin: 3rem auto 4rem;
