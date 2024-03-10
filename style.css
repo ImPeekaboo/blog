@@ -66,7 +66,7 @@
     --sd-table-row-hover-bg: var(--sd-highlight-bg-dark);
     --sd-button-color: hsl(270, 7%, 33%);
     --comment-item-bg: rgba(255, 255, 255, 0.05);
-    --comment-form-bg: rgba(0, 0, 0, 0.1);
+    --comment-form-bg: rgba(0, 0, 0, 0.15);
   }
 }
 
