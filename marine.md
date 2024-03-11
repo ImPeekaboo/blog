@@ -1,6 +1,6 @@
 ---
 title: Houshou Marine VR Mini Live in Virtual Cast
-layout: video
+layout: video-google
 SPDX-License-Identifier: LGPL-2.1-or-later
 ---
 

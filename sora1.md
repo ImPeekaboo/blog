@@ -1,6 +1,6 @@
 ---
 title: Tokino Sora 1st Live “Dream!”
-layout: video
+layout: video-google
 SPDX-License-Identifier: LGPL-2.1-or-later
 ---
 

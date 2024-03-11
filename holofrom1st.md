@@ -1,6 +1,6 @@
 ---
 title: hololive 1st Generation 3rd Anniversary LIVE “from 1st”
-layout: video
+layout: video-google
 SPDX-License-Identifier: LGPL-2.1-or-later
 ---
 

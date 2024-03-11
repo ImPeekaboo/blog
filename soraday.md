@@ -1,6 +1,6 @@
 ---
 title: Tokino Sora Theatrical Cover Live “Role:Play” Day
-layout: video
+layout: video-google
 SPDX-License-Identifier: LGPL-2.1-or-later
 ---
 

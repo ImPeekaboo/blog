@@ -1,6 +1,6 @@
 ---
 title: Neneiro NOODLE Live with Momosuzu Nene
-layout: video
+layout: video-google
 SPDX-License-Identifier: LGPL-2.1-or-later
 ---
 

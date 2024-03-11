@@ -1,6 +1,6 @@
 ---
 title: Mori Calliope Major Debut Concert “New Underworld Order”
-layout: video
+layout: video-google
 SPDX-License-Identifier: LGPL-2.1-or-later
 ---
 

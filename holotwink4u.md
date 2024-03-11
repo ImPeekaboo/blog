@@ -1,6 +1,6 @@
 ---
 title: hololive 5th Generation Live “Twinkle 4 You”
-layout: video
+layout: video-google
 SPDX-License-Identifier: LGPL-2.1-or-later
 ---
 

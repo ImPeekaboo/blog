@@ -1,6 +1,6 @@
 ---
 title: Hoshimachi Suisei 1st Solo Live “STELLAR into the GALAXY”
-layout: video
+layout: video-google
 SPDX-License-Identifier: LGPL-2.1-or-later
 ---
 

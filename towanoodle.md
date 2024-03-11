@@ -1,6 +1,6 @@
 ---
 title: Tokoyami Towa “Akuma no Delicious Night”
-layout: video
+layout: video-google
 SPDX-License-Identifier: LGPL-2.1-or-later
 ---
 

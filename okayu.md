@@ -1,6 +1,6 @@
 ---
 title: Nekomata Okayu 1st Live. “POISONYA SYNDROME”
-layout: video
+layout: video-google
 SPDX-License-Identifier: LGPL-2.1-or-later
 ---
 

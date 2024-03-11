@@ -1,6 +1,6 @@
 ---
 title: Minato Aqua One-Man Live 2022 “Aqua Iro in Wonder☆Land♪”
-layout: video
+layout: video-google
 SPDX-License-Identifier: LGPL-2.1-or-later
 ---
 

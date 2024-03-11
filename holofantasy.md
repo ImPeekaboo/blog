@@ -1,6 +1,6 @@
 ---
 title: hololive Fantasy 1st Live FAN FUN ISLAND
-layout: video
+layout: video-google
 SPDX-License-Identifier: LGPL-2.1-or-later
 ---
 
