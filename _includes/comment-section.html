@@ -17,7 +17,7 @@
 	By default this is turned OFF. If the page has enabled or disabled this feature explicitly,
 	the individual page value is used. Otherwise the site's value, if any, is used.
 {%- endcomment -%}
-{%- assign lazy_load_enabled = false -%}
+{%- assign lazy_load_enabled = true -%}
 {%- if page.lazy_load_comments == true -%}
 	{%- assign lazy_load_enabled = true -%}
 {%- elsif site.google_forms_comments.lazy_load_comments == true -%}
@@ -644,7 +644,7 @@
 	        </div>
 		<button id="load-more-comments" class="comment-button" onclick="loadMoreComments(true)" type="button">Load Older Comments</button>
 		<div id="no-comments" class="comment-info-text">
-			<p>There are currently no comments on this article, be the first to add one below</p>
+			<p>There are currently no comments on this page</p>
 		</div>
 		<div id="comment-container"></div>
 	</div>
