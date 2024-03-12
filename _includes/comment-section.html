@@ -380,7 +380,7 @@
 	};
 
 	function replyToComment(commentId) {
-		document.getElementById("comment-reply-info").innerHTML = `<small class="comment-reply-clear" onclick="clearCommentReplyItem()">Ⓧ&nbsp;&nbsp;&nbsp;</small><small onClick="jumpToComment('${commentId}')">Replying to comment <a id="reply-to-comment-id">${commentId}</a></small>`;
+		document.getElementById("comment-reply-info").innerHTML = `<small class="comment-reply-clear" onclick="clearCommentReplyItem()">&#8855;&nbsp;&nbsp;&nbsp;</small><small onClick="jumpToComment('${commentId}')">Replying to comment <a id="reply-to-comment-id">${commentId}</a></small>`;
 		smoothScrollTo(document.getElementsByClassName("comments-form")[0]);
 	};
 	{%- endif -%}
