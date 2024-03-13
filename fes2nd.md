@@ -9,7 +9,7 @@ SPDX-License-Identifier: LGPL-2.1-or-later
 ## hololive 2nd fes. Beyond the Stage Day 1
 
 <div class="container">
-  <img class="lazyload" src="/assets/images/fes2nd1.jpg" alt="fes2nd1"/>
+  <img class="lazyload" data-src="/assets/images/fes2nd1.jpg" alt="fes2nd1"/>
 </div>
 <a href="../fes2nd1/" class="button" role="button">
   Streaming Here
@@ -18,7 +18,7 @@ SPDX-License-Identifier: LGPL-2.1-or-later
 ## hololive 2nd fes. Beyond the Stage Day 2
 
 <div class="container">
-  <img class="lazyload" src="/assets/images/fes2nd2.jpg" alt="fes2nd2"/>
+  <img class="lazyload" data-src="/assets/images/fes2nd2.jpg" alt="fes2nd2"/>
 </div>
 <a href="../fes2nd2/" class="button" role="button">
   Streaming Here

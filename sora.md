@@ -9,7 +9,7 @@ SPDX-License-Identifier: LGPL-2.1-or-later
 ## Tokino Sora Theatrical Cover Live “Role:Play”
 
 <div class="container">
-  <img class="lazyload" src="/assets/images/soraday-night.png" alt="soraday-night"/>
+  <img class="lazyload" data-src="/assets/images/soraday-night.png" alt="soraday-night"/>
 </div>
 <a href="../soraday/" class="button" role="button">
   Day Performance
@@ -21,7 +21,7 @@ SPDX-License-Identifier: LGPL-2.1-or-later
 ## Tokino Sora 2nd Live “Parallel Time”
 
 <div class="container">
-  <img class="lazyload" src="/assets/images/sora2.jpg" alt="sora2"/>
+  <img class="lazyload" data-src="/assets/images/sora2.jpg" alt="sora2"/>
 </div>
 <a href="../sora2/" class="button" role="button">
   Streaming Here
@@ -30,7 +30,7 @@ SPDX-License-Identifier: LGPL-2.1-or-later
 ## Tokino Sora 1st Live “Dream!”
 
 <div class="container">
-  <img class="lazyload" src="/assets/images/sora1.jpg" alt="sora1"/>
+  <img class="lazyload" data-src="/assets/images/sora1.jpg" alt="sora1"/>
 </div>
 <a href="../sora1/" class="button" role="button">
   Streaming Here
