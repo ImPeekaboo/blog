@@ -1,6 +1,6 @@
 ---
 title: Testing
-layout: video-google
+layout: video
 SPDX-License-Identifier: LGPL-2.1-or-later
 ---
 
