@@ -11,6 +11,7 @@ SPDX-License-Identifier: LGPL-2.1-or-later
 * [hololive 2nd fes. Beyond the Stage](fes2nd.md)
 * [hololive 3rd fes. Link Your Wish](fes3rd.md)
 * [hololive 4th fes. Our Bright Parade](fes4th.md)
+* [hololive 5th fes. Capture the Moment](fes5th.md)
 * [hololive Summer 2023 3DLIVE Splash Party!](holosp.md)
 * [Other Group Concert](groupmix.md)
 
