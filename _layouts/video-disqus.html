@@ -49,6 +49,13 @@
     <script src="https://vjs.zencdn.net/8.6.1/video.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/videojs-mobile-ui/dist/videojs-mobile-ui.min.js"></script>
     <script>
+      var source = document.querySelector("#my-video source");
+      var sourceUrl = source.getAttribute("src");
+      var isLiveVideo = false;
+      if (sourceUrl && sourceUrl.includes(".m3u8")) {
+        isLiveVideo = true;
+      }
+
       videojs("my-video", {
         controlBar: {
           volumePanel: {
@@ -71,16 +78,19 @@
             'fullscreenToggle'
           ]
         },
-	plugins: {
-	  mobileUi: {
-	    fullscreen: {
-	      enterOnRotate: false,
+	    plugins: {
+	      mobileUi: {
+	        fullscreen: {
+	          enterOnRotate: false,
               exitOnRotate: false,
               lockOnRotate: false,
               lockToLandscapeOnEnter: true
+	        },
+	        touchControls: {
+	          disabled: isLiveVideo ? true : false
+	        }
+	      }
 	    }
-	  }
-	}
       });
     </script>
 
