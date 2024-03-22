@@ -19,6 +19,7 @@
 
     <link href="https://vjs.zencdn.net/8.6.1/video-js.css" rel="stylesheet" />
     <link href="https://cdn.jsdelivr.net/npm/videojs-mobile-ui/dist/videojs-mobile-ui.css" rel="stylesheet" />
+    <link href="https://cdn.jsdelivr.net/npm/videojs-quality-selector-hls/dist/videojs-quality-selector-hls.css" />
     <style type="text/css">
       .video-js .vjs-current-time,
       .video-js .vjs-duration {
@@ -29,6 +30,9 @@
       .video-js .vjs-remaining-time,
       .video-js .vjs-picture-in-picture-control,
       .vjs-touch-overlay .vjs-play-control {
+        display: none;
+      }
+      .not-live .vjs-quality-selector {
         display: none;
       }
     </style>
@@ -46,12 +50,16 @@
 
     <script src="https://vjs.zencdn.net/8.6.1/video.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/videojs-mobile-ui/dist/videojs-mobile-ui.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/videojs-quality-selector-hls/dist/videojs-quality-selector-hls.min.js"></script>
     <script>
       var source = document.querySelector("#my-video source");
       var sourceUrl = source.getAttribute("src");
+      var videoPlayer = document.querySelector("#my-video");
       var isLiveVideo = false;
       if (sourceUrl && sourceUrl.includes(".m3u8")) {
         isLiveVideo = true;
+      } else {
+        videoPlayer.classList.add("not-live");
       }
 
       videojs("my-video", {
@@ -87,6 +95,9 @@
             touchControls: {
               disabled: isLiveVideo ? true : false
             }
+          },
+          qualitySelectorHls: {
+            displayCurrentQuality: true
           }
         }
       });
