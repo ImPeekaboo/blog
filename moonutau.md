@@ -6,6 +6,15 @@ SPDX-License-Identifier: LGPL-2.1-or-later
 
 ---
 
+## [20240403] dawntau! singing at dawn♥
+
+<div class="container">
+  <img class="lazyload" data-src="/assets/images/20240403.jpg" alt="moona-240403"/>
+</div>
+<a href="../moona-240403/" class="button" role="button">
+  Streaming Here
+</a>
+
 ## [20240106] Singing time let's gooo!!
 
 <div class="container">
