@@ -16,7 +16,7 @@ SPDX-License-Identifier: LGPL-2.1-or-later
 </div>
 
 <div class="container">
-  <img class="lazyload" data-src="/assets/images/20240403.jpg" alt="moona-240403"/>
+  <img class="lazyload lightbox-image" data-src="/assets/images/20240403.jpg" alt="moona-240403"/>
 </div>
 
 <div class="container">
