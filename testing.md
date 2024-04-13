@@ -17,9 +17,13 @@ SPDX-License-Identifier: LGPL-2.1-or-later
 
 ---
 
-<a href="/assets/images/20240403.jpg" class="gray lightbox-image gallery container">
+<a href="/assets/images/20240403.jpg" class="container">
   <img class="lazyload" data-src="/assets/images/20240403.jpg" alt="moona-240403"/>
 </a>
+
+[![Moona](/assets/images/20240403.jpg){:.lazyload}](/assets/images/20240403.jpg){:.container}
+
+[Test](/assets/images/20240403.jpg){:.container}
 
 <div class="container">
   <img class="lazyload" data-src="/assets/images/20240106.jpg" alt="moona-240106"/>
