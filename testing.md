@@ -17,32 +17,32 @@ SPDX-License-Identifier: LGPL-2.1-or-later
 
 ---
 
-<a href="/assets/images/20240403.jpg" class="gray lightbox-image gallery container">
+[![moona-240403](/assets/images/20240403.jpg){:.lazyload}](/assets/images/20240403.jpg){:.container}
+
+---
+
+<a href="/assets/images/20240403.jpg" class="container" data-lightbox="gallery" data-title="moona karaoke thumbnail">
   <img class="lazyload" data-src="/assets/images/20240403.jpg" alt="moona-240403"/>
 </a>
 
-[![moona-240403](/assets/images/20240403.jpg){:.lazyload}](/assets/images/20240403.jpg){:.container}
-
-[Test](/assets/images/20240403.jpg){:.container}
-
-<div class="container">
+<a href="/assets/images/20240106.jpg" class="container" data-lightbox="gallery" data-title="moona karaoke thumbnail">
   <img class="lazyload" data-src="/assets/images/20240106.jpg" alt="moona-240106"/>
-</div>
+</a>
 
-<div class="container">
+<a href="/assets/images/20231116.jpg" class="container" data-lightbox="gallery" data-title="moona karaoke thumbnail">
   <img class="lazyload" data-src="/assets/images/20231116.jpg" alt="moona-231116"/>
-</div>
+</a>
 
-<div class="container">
+<a href="/assets/images/20231101.jpg" class="container" data-lightbox="gallery" data-title="moona karaoke thumbnail">
   <img class="lazyload" data-src="/assets/images/20231101.jpg" alt="moona-231101"/>
-</div>
+</a>
 
-<div class="container">
+<a href="/assets/images/20230921.jpg" class="container" data-lightbox="gallery" data-title="moona karaoke thumbnail">
   <img class="lazyload" data-src="/assets/images/20230921.jpg" alt="moona-230921"/>
-</div>
+</a>
 
-<div class="container">
+<a href="/assets/images/20230916.jpg" class="container" data-lightbox="gallery" data-title="moona karaoke thumbnail">
   <img class="lazyload" data-src="/assets/images/20230916.jpg" alt="moona-230916"/>
-</div>
+</a>
 
 ---
