@@ -6,7 +6,7 @@ SPDX-License-Identifier: LGPL-2.1-or-later
 
 ---
 
-##  Testing
+##  Video Player
 
 <div class="container">
   <video-js id="my-video" class="vjs-fluid vjs-layout-medium" controls preload="auto" poster="/assets/images/moona-cool.jpg">
@@ -17,9 +17,7 @@ SPDX-License-Identifier: LGPL-2.1-or-later
 
 ---
 
-[![moona-240403](/assets/images/20240403.jpg){:.lazyload}](/assets/images/20240403.jpg){:.container}
-
----
+## Images Gallery
 
 <a href="/assets/images/20240403.jpg" class="container" data-lightbox="gallery" data-title="moona karaoke thumbnail">
   <img class="lazyload" data-src="/assets/images/20240403.jpg" alt="moona-240403"/>
