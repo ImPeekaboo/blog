@@ -8,9 +8,9 @@ SPDX-License-Identifier: LGPL-2.1-or-later
 
 ## hololive Summer 2023 3DLIVE Splash Party!
 
-<div class="container">
+<a href="/assets/images/holosp.jpg" class="container" data-lightbox="gallery" data-title="hololive Summer 2023 3DLIVE Splash Party!">
   <img class="lazyload" data-src="/assets/images/holosp.jpg" alt="holosp"/>
-</div>
+</a>
 <a href="../holospsunshine/" class="button" role="button">
   Day 1: Sunshine
 </a>

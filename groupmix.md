@@ -8,63 +8,63 @@ SPDX-License-Identifier: LGPL-2.1-or-later
 
 ## Blue Journey 1st Live “Yoake no Uta”
 
-<div class="container">
+<a href="/assets/images/holoblue.jpg" class="container" data-lightbox="gallery" data-title="Blue Journey 1st Live “Yoake no Uta”">
   <img class="lazyload" data-src="/assets/images/holoblue.jpg" alt="holoblue"/>
-</div>
+</a>
 <a href="../holoblue/" class="button" role="button">
   Streaming Here
 </a>
 
 ## ProtoLive #2 ~Yamato Phantasia~
 
-<div class="container">
+<a href="/assets/images/protolive.jpg" class="container" data-lightbox="gallery" data-title="ProtoLive #2 ~Yamato Phantasia~">
   <img class="lazyload" data-src="/assets/images/protolive.jpg" alt="protolive"/>
-</div>
+</a>
 <a href="../protolive/" class="button" role="button">
   Streaming Here
 </a>
 
 ## hololive 5th Generation Live “Twinkle 4 You”
 
-<div class="container">
+<a href="/assets/images/holotwink4u.jpg" class="container" data-lightbox="gallery" data-title="hololive 5th Generation Live “Twinkle 4 You”">
   <img class="lazyload" data-src="/assets/images/holotwink4u.jpg" alt="holotwink4u"/>
-</div>
+</a>
 <a href="../holotwink4u/" class="button" role="button">
   Streaming Here
 </a>
 
 ## hololive English 1st Concert -Connect the World-
 
-<div class="container">
+<a href="/assets/images/holoconnect.jpg" class="container" data-lightbox="gallery" data-title="hololive English 1st Concert -Connect the World-">
   <img class="lazyload" data-src="/assets/images/holoconnect.jpg" alt="holoconnect"/>
-</div>
+</a>
 <a href="../holoconnect/" class="button" role="button">
   Streaming Here
 </a>
 
 ## hololive Fantasy 1st Live FAN FUN ISLAND
 
-<div class="container">
+<a href="/assets/images/holofantasy.jpg" class="container" data-lightbox="gallery" data-title="hololive Fantasy 1st Live FAN FUN ISLAND">
   <img class="lazyload" data-src="/assets/images/holofantasy.jpg" alt="holofantasy"/>
-</div>
+</a>
 <a href="../holofantasy/" class="button" role="button">
   Streaming Here
 </a>
 
 ## hololive 1st Generation 3rd Anniversary LIVE “from 1st”
 
-<div class="container">
+<a href="/assets/images/holofrom1st.jpg" class="container" data-lightbox="gallery" data-title="hololive 1st Generation 3rd Anniversary LIVE “from 1st”">
   <img class="lazyload" data-src="/assets/images/holofrom1st.jpg" alt="holofrom1st"/>
-</div>
+</a>
 <a href="../holofrom1st/" class="button" role="button">
   Streaming Here
 </a>
 
 ## hololive IDOL PROJECT 1st Live.『Bloom,』
 
-<div class="container">
+<a href="/assets/images/holobloom.jpg" class="container" data-lightbox="gallery" data-title="hololive IDOL PROJECT 1st Live.『Bloom,』">
   <img class="lazyload" data-src="/assets/images/holobloom.jpg" alt="holobloom"/>
-</div>
+</a>
 <a href="../holobloom/" class="button" role="button">
   Streaming Here
 </a>
