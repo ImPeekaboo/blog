@@ -648,3 +648,25 @@ code.highlighter-rouge {
 a code.highlighter-rouge {
   color: inherit;
 }
+
+/* navbar */
+#navbar {
+  background-color: var(--sd-background-color);
+  position: fixed;
+  top: 0;
+  width: 100%;
+  display: block;
+  transition: top 0.3s;
+  z-index: 999;
+}
+
+#navbar a {
+  float: left;
+  display: block;
+  color: var(--sd-foreground-color);
+  text-align: center;
+  padding: 15px;
+  text-decoration: none;
+  font-size: 17px;
+  font-weight: 600;
+}
