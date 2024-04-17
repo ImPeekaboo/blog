@@ -670,3 +670,57 @@ a code.highlighter-rouge {
   font-size: 17px;
   font-weight: 600;
 }
+
+/* back to up button */
+.scroll-up {
+  position: fixed;
+  z-index: 50;
+  padding: 0;
+  right: 30px;
+  bottom: 100px;
+  opacity: 0;
+  visibility: hidden;
+  transform: translateY(15px);
+  height: 46px;
+  width: 46px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  transition: all .4s ease;
+  border: none;
+  box-shadow: inset 0 0 0 2px #ccc;
+  color: #30d475;
+  background-color: var(--sd-background-color);
+}
+
+.scroll-up.is-active {
+  opacity: 1;
+  visibility: visible;
+  transform: translateY(0);
+}
+
+.scroll-up .icon-tabler-arrow-up {
+  position: absolute;
+  stroke-width: 2px;
+  stroke: #30d475;
+}
+
+.scroll-up svg path {
+  fill: none;
+}
+
+.scroll-up svg.progress-circle path {
+  stroke: #30d475;
+  stroke-width: 4;
+  transition: all .4s ease;
+}
+
+.scroll-up:hover {
+  color: #30d475;
+}
+
+.scroll-up:hover .progress-circle path, .scroll-up:hover .icon-tabler-arrow-up {
+  stroke: #30d475;
+}
