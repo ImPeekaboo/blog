@@ -51,8 +51,7 @@
   --comment-button-color: var(--sd-gray-extralight);
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
+[data-theme="dark"] {
     color-scheme: dark;
     --sd-foreground-color: var(--sd-gray);
     --sd-background-color: var(--sd-black);
@@ -67,7 +66,6 @@
     --sd-button-color: hsl(270, 7%, 33%);
     --comment-item-bg: rgba(0, 0, 0, 0.15); /* rgba(255, 255, 255, 0.05); */
     --comment-button-color: var(--sd-black);
-  }
 }
 
 /* Typography */
@@ -269,7 +267,7 @@ th:last-child, td:last-child {
   padding: 1em;
   overflow-x: auto;
 }
-@media (prefers-color-scheme: dark) {
+[data-theme="dark"] {
   .intro-code-block {
     background-color: var(--sd-highlight-bg);
   }
@@ -332,7 +330,7 @@ tbody td {
 .highlight table td { padding: 5px; }
 .highlight table pre { margin: 0; }
 
-@media (prefers-color-scheme: light) {
+[data-theme="light"] {
   .highlight .cm {
     color: #999988;
     font-style: italic;
@@ -543,7 +541,7 @@ tbody td {
   }
 }
 
-@media (prefers-color-scheme: dark) {
+[data-theme="dark"] {
   /* rouge "base16.dark" code highlight */
   /* generated with: rougify style base16.dark | sed '/background-color: #151515/d' */
   .highlight, .highlight .w {
@@ -669,6 +667,26 @@ a code.highlighter-rouge {
   text-decoration: none;
   font-size: 17px;
   font-weight: 600;
+}
+
+#navbar .darkmode-button {
+  float: right;
+}
+
+/*darkmode toggle */
+button.darkmode-button {
+  all: unset;
+  cursor: pointer;
+  padding: 15px;
+  background-color: transparent;
+}
+
+#light-icon {
+  display: none;
+}
+
+#dark-icon {
+  display: none;
 }
 
 /* back to up button */

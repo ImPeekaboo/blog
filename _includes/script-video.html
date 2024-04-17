@@ -1,11 +1,45 @@
 <script>
+const currentTheme = localStorage.getItem('theme') ? localStorage.getItem('theme') : null;
+const lightIcon = document.getElementById("light-icon");
+const darkIcon = document.getElementById("dark-icon");
+
+if (currentTheme) {
+    document.documentElement.setAttribute('data-theme', currentTheme);
+
+    if (currentTheme === 'dark') {
+        lightIcon.style.display = "block";
+    } else {
+        darkIcon.style.display = "block";
+    }
+} else {
+    document.documentElement.setAttribute('data-theme', 'light');
+    darkIcon.style.display = "block";
+}
+
+function toggleDarkMode() {
+    const currentToggleTheme = document.documentElement.getAttribute('data-theme');
+    if (currentToggleTheme === 'light') {
+        document.documentElement.setAttribute('data-theme', 'dark');
+        lightIcon.style.display = "block";
+        darkIcon.style.display = "none";
+        localStorage.setItem('theme', 'dark');
+    } else {
+        document.documentElement.setAttribute('data-theme', 'light');
+        darkIcon.style.display = "block";
+        lightIcon.style.display = "none";
+        localStorage.setItem('theme', 'light');
+    }
+}
+</script>
+<script>
 var prevScrollpos = window.pageYOffset;
 window.onscroll = function() {
 var currentScrollPos = window.pageYOffset;
   if (prevScrollpos > currentScrollPos) {
     document.getElementById("navbar").style.top = "0";
   } else {
-    document.getElementById("navbar").style.top = "-70px";                   }
+    document.getElementById("navbar").style.top = "-70px";
+  }
   prevScrollpos = currentScrollPos;
 }
 </script>
