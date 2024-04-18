@@ -671,13 +671,13 @@ a code.highlighter-rouge {
 
 #navbar .darkmode-button {
   float: right;
+    padding: 18.6px;
 }
 
 /*darkmode toggle */
 button.darkmode-button {
   all: unset;
   cursor: pointer;
-  padding: 15px;
   background-color: transparent;
 }
 
