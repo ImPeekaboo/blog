@@ -6,168 +6,192 @@ SPDX-License-Identifier: LGPL-2.1-or-later
 
 ---
 
-## Chapter 6
+## Youzitsu Example
 
-<p>Mungkin karena kredibilitas yang datang dengan pakaian yang ku kenakan ini atau tatapan mendesak ku, petugas yang tidak dikenal itu segera menempatkan ku di atas kuda tanpa mengatakan apa-apa.</p>
-<p>Awalnya, ini adalah garnisun, jadi jauh dari Kastil Raja Iblis.</p>
-<p>Bagaimana bisa sampai seperti ini?&nbsp;Aku telah bekerja sangat keras untuk keluar dari sana belum lama ini dan sekarang aku sudah bergegas kembali ke kastil.</p>
-<p>Aku belum pernah duduk di atas kuda sebelumnya, namun petugas yang duduk di belakangku memegangi tubuhku erat-erat, jadi entah bagaimana aku bisa menahan guncangan.</p>
-<p>“Tidak bisakah kau memberitahuku detailnya?&nbsp;Kastil telah direbut, jadi mengapa nyawa seorang ksatria dalam bahaya!?”</p>
-<p>Aku tidak tahu apakah orang ini adalah salah satu antek Bertus atau bukan, tapi orang ini masih sangat muda.</p>
-<p>Apakah Bertus mengulurkan jari-jarinya yang kotor bahkan sampai ke tingkat perwira junior?</p>
-<p>Aku memikirkannya sebentar, tetapi orang ini membantuku untuk saat ini.</p>
-<p>“Aku akan memberitahumu saat kita menemukan Tuan Francis!”</p>
-<p>“Dimengerti!”</p>
-<p>Aku tidak perlu membujuknya lagi, karena dia masih membantu ku sekarang.&nbsp;Mungkin karena ini adalah pertama kalinya aku menunggang kuda, pinggulku terasa seperti akan patah, tapi ini bukan waktunya untuk peduli tentang hal seperti itu.</p>
-<p>Kastil Raja Iblis berantakan sebagai akibat dari perang ini dan di dataran sekitarnya, Iblis yang tampaknya telah ditawan diseret tampak seperti.</p>
-<p>Tidak semuanya mati.&nbsp;Beberapa Iblis menyerah dan menjadi tahanan.</p>
-<p>Aku merasa lega bahwa tidak semua dari mereka mati, namun, pada saat yang sama aku merasa bersalah karena mengkhianati mereka pada akhirnya meskipun merupakan pangeran mereka.</p>
-<p>“Apa yang akan terjadi pada Iblis-iblis itu?”</p>
-<p>Terlepas dari urgensi situasi, aku mengajukan pertanyaan acak seperti itu.</p>
-<p>“Jika itu adalah perang antar manusia, kami akan mengambil tebusan untuk mereka, tetapi mereka adalah iblis.”</p>
-<p>Dia berbicara seolah-olah aku menanyakan sesuatu yang aneh.</p>
-<p>“Kami telah menahan mereka untuk saat ini, tapi apa lagi yang akan kami lakukan selain membunuh mereka?”</p>
-<p>Negosiasi tidak ada artinya karena ras mereka berbeda.&nbsp;Ini tidak bisa dihindari, karena ini awalnya adalah perang pemusnahan.&nbsp;Itu wajar bahwa mereka mencoba untuk menghancurkan semua benih sebelum mereka tumbuh.</p>
-<p>Itu membuat hatiku berat.&nbsp;Meskipun aku adalah orang biasa yang tiba-tiba memasuki tubuh pangeran iblis, aku tidak bisa dengan mudah menghilangkan perasaan kotor ini.</p>
-<p>Petugas dan aku berlari melewati prosesi tahanan yang tak ada habisnya.</p>
-<p>&nbsp;</p>
-<p style="text-align: center;">* * *</p>
-<p>&nbsp;</p>
-<p>Dinding yang lebar dan terbuka dihancurkan di mana-mana dan dipenuhi dengan banyak mayat.&nbsp;Rasanya mengerikan hanya melihat pemandangan mayat iblis dan manusia berbaris bersebelahan.</p>
-<p>“Itu bukan sesuatu yang harus dilihat anak-anak.”</p>
-<p>Dia menunjukkan kebaikan dengan menutupi mata ku saat dia menunggang kuda saat dia menganggap ku sebagai seorang anak.</p>
-<p>Aku tidak tahu berapa banyak manusia dan iblis yang telah mati.&nbsp;Kami melewati gerbang yang hancur.&nbsp;Banyak gerbong berbaris di depannya.</p>
-<p>Mereka terus memuatnya dengan bahan-bahan yang mereka temukan di Kastil Raja Iblis.</p>
-<p>Alam Iblis dihancurkan dalam Perang Dunia Iblis ini, dan konflik lama ini akhirnya diselesaikan oleh manusia …</p>
-<p>Namun yang terpenting masih aspek material.</p>
-<p>Semua negara yang berpartisipasi dalam Perang Dunia Iblis akan mendapatkan kekayaan besar dari menjual barang-barang dari Alam Iblis.&nbsp;Jadi ditetapkan bahwa zaman keemasan yang panjang akan dimulai untuk tanah manusia.&nbsp;Dikatakan bahwa mereka memperoleh masa damai yang panjang dengan imbalan semua darah.</p>
-<p>Namun, aku tidak akan pernah membayangkan aku akan melihat adegan ini dari sudut pandang iblis.&nbsp;Pada akhirnya, seolah-olah mereka memperlakukan perang hanya sebagai alasan sederhana untuk menjarah, banyak pasukan militer menyapu semua kekayaan Kastil Raja Iblis.</p>
-<p>Gerobak yang penuh dengan persediaan terus meninggalkan daerah itu dan gerobak kosong terus menggantikannya.&nbsp;Petugas membawa ku ke pos komando di dalam kastil di mana mereka melakukan operasi transportasi dan pencarian.</p>
-<p>Petugas itu memberi hormat kepada apa yang tampak seperti komandan.</p>
-<p>“Letnan Dyrus, komandan Peleton ke-3, Kompi ke-11, Resimen Kavaleri ke-4, Korps Kekaisaran ke-1!”</p>
-<p>Dia meneriakkan nama resminya dengan wajah kaku.&nbsp;Letnan Dyrus. Aku entah bagaimana menemukan namanya.&nbsp;Dia berada di kavaleri, jadi itu sebabnya dia bisa naik dengan sangat baik bahkan dengan aku berada di sana.</p>
-<p>Komandan di seberangnya sepertinya tidak tahu siapa dia.&nbsp;Itu yang diharapkan.&nbsp;Dengan gelarnya, dia mungkin jauh di bawah komandan.</p>
-<p>“Apa itu?”</p>
-<p>Perwira itu, yang tampaknya adalah perwira berpangkat sangat tinggi, mengerutkan kening sementara dia melihat secara bergantian antara aku dan perwira junior.&nbsp;Dia sepertinya akan menegurnya dengan keras jika dia tidak bisa memberikan penjelasan yang tepat mengapa dia membawa seseorang yang bahkan bukan seorang prajurit ke tempat ini.</p>
-<p>“Aku membawa anak ini ke sini karena dia mengatakan dia harus menyampaikan pesan mendesak dari Panglima Tertinggi pada Tuan Francis.&nbsp;Aku menganggapnya rahasia, jadi aku tidak bertanya padanya apa itu.”</p>
-<p>“Hm?”</p>
-<p>Melihat kebohongan kecilku semakin besar, aku merasakan hawa dingin mengalir di tulang belakangku.&nbsp;Namun, dia tidak bertanya mengapa komandan mengirim pesan mendesak melalui seseorang seperti ku.</p>
-<p>“Ah …”</p>
-<p>Wajahnya sedikit menegang.&nbsp;Dia sepertinya tahu sesuatu.</p>
-<p>“Tuan Francis …&nbsp;Aku baru saja menerima laporan bahwa dia terbunuh dalam pertengkaran dengan salah satu sisa iblis selama pencarian Kastil …”</p>
-<p>Bertus adalah orang pertama yang menggunakan tangannya.&nbsp;Tidak hanya ekspresi ku, tetapi juga Letnan Daryus mengeras.</p>
-<p>“Apa pesan itu sesuatu yang harus ku ketahui?”</p>
-<p>“T, tidak!&nbsp;Aku dimaksudkan untuk mengirimkannya pada Tuan Francis secara langsung!”</p>
-<p>“Sayang sekali.&nbsp;Iblis sialan itu seharusnya meringkuk dan mati.”</p>
-<p>Ekspresi komandan itu muram, mungkin karena dia berpikir bahwa dia kehilangan seorang ksatria hebat karena iblis.</p>
-<p>Tidak, yah, dia pasti dibunuh oleh manusia dan bukan iblis.</p>
-<p>“Tuan, ini bukan tempat untuk anak laki-laki seperti dia.&nbsp;Cepat kembali.”</p>
-<p>“Ya!”</p>
-<p>Untungnya, komandan tidak menginterogasi ku tentang pesan atau identitas ku.&nbsp;Sepertinya dia terlalu sibuk melakukan pencarian kastil skala penuh ini.</p>
-<p>Setelah meninggalkan pos komando, Letnan Dyrus meraih bahu ku.</p>
-<p>“Bagaimana ini bisa terjadi?&nbsp;Bagaimana Panglima Tertinggi tahu bahwa Tuan Francis dalam bahaya?”</p>
-<p>Aku mengatakan hidup Tuan Francis dalam bahaya, dan dia benar-benar meninggal.&nbsp;Aku melihat letnan di depan ku.&nbsp;Jelas bahwa dia memiliki otoritas yang sangat kecil di sini.</p>
-<p>Namun, sekarang setelah Tuan Francis terbunuh, aku membutuhkan orang lain untuk membantu saya.</p>
-<p>“Itu bukan Panglima Tertinggi.”</p>
-<p>“Apa?”</p>
-<p>Berharap itu bukan kesalahan untuk membawa orang ini masuk.</p>
-<p>“Yang Mulia putri mengirim ku.”</p>
-<p>Aku mengatakan yang sebenarnya.</p>
-<p>&nbsp;</p>
-<p style="text-align: center;">* * *</p>
-<p>&nbsp;</p>
-<p>Aku menjelaskan keseluruhan cerita padanya di daerah terpencil kastil di mana tentara tidak lewat.&nbsp;Aku mulai dari titik di mana sang putri masih dipenjara dan diselamatkan.</p>
-<p>“Jadi Tuan Francis dibunuh oleh seseorang dari tentara kita dan bukan iblis?”</p>
-<p>“Ya, mungkin …”</p>
-<p>“Sial.&nbsp;Aku bahkan tidak bisa membayangkan betapa menyakitkannya itu, tetapi mereka bahkan mencoba menyakiti Yang Mulia Putri segera setelah dia diselamatkan?”</p>
-<p>Dia menggertakkan giginya, tampak terkejut mendengar bahwa ada orang yang merencanakan hal-hal seperti itu.</p>
-<p>“Kalau begitu kau mencoba menyelamatkan Putri, kan?”</p>
-<p>“Ya.”</p>
-<p>“Baiklah, aku mengagumi keberanianmu.”</p>
-<p>Dia menepuk pundakku seolah-olah dia bangga padaku, yang mencoba menyelamatkan sang putri meskipun aku tidak berdaya.&nbsp;Kemudian dia tampak kagum dengan fakta bahwa ada pertempuran tersembunyi yang terjadi di pihak mereka, sama seperti mereka mengklaim kemenangan.</p>
-<p>“Aku tidak bisa membiarkan itu terjadi.&nbsp;Aku juga ingin menjadi kekuatan Putri.”</p>
-<p>Bahkan di tempat ini dengan begitu banyak mata, entah bagaimana sekutu terbunuh oleh yang lain.&nbsp;Itu berarti bahwa antek-antek Bertus tersebar di seluruh Tentara Kekaisaran.</p>
-<p>“Aku harus menemuinya secepat mungkin.&nbsp;Aku tidak terampil seperti Tuan Francis, tetapi hanya memiliki sepasang mata lagi seharusnya cukup berarti.”</p>
-<p>“Ya, memang.”</p>
-<p>Untungnya, Dyrus tampaknya memiliki rasa keadilan yang kuat dan tidak bisa membiarkan ini begitu saja.&nbsp;Aku tidak mengatakan padanya apa pun seperti dia harus mempertaruhkan nyawanya.&nbsp;Dia sepertinya berpikir bahwa itu wajar untuk menyerahkan hidupnya jika itu berarti dia bisa melindunginya.</p>
-<p>Tepat ketika dia akan pergi secepat yang dia bisa, aku memiliki pikiran yang melintas di kepalaku.</p>
-<p>“Letnan.&nbsp;Tunggu.”</p>
-<p>“Apa itu?&nbsp;Aku harus segera kembali.”</p>
-<p>Aku menunjuk ke banyak gerobak.</p>
-<p>“Ada cara untuk melindungi sang putri sekarang.”</p>
-<p>Ya, aku berani kembali ke Kastil Raja Iblis.</p>
-<p>“Ini adalah Kastil Raja Iblis.”</p>
-<p>“Benar.&nbsp;Bagaimana dengan itu?”</p>
-<p>“Aku melihat ada ruang penyimpanan untuk item sihir di sana ketika aku diselamatkan.”</p>
-<p>Aku sudah sampai sejauh ini, jadi aku tidak bisa kembali dengan tangan kosong.</p>
-<p>“Mengapa kita tidak mencari gulungan teleportasi di sana?”</p>
-<p>Gulungan spaceshifting tidak dapat digunakan di sini, tetapi mereka jelas bekerja di garnisun.</p>
-<p>Menggunakan mantra itu, sang putri bisa dibawa keluar dari tempat berbahaya ini segera.&nbsp;Aku berharap brankas gulir belum dijarah.</p>
-<p>Jika demikian, maka teleport scroll yang ku coba gunakan jelas masih ada.</p>
-<p>Kami tidak bisa mencoba meminta penyihir untuk memindahkan kami.&nbsp;Mereka pasti akan menjebak kami.</p>
-<p>Dyrus tampak ragu-ragu.&nbsp;Dia tampak ragu apakah itu pilihan yang tepat untuk pergi mencari beberapa gulungan yang mungkin ada atau mungkin bahkan tidak ada.</p>
-<p>Namun, aku tahu lokasi gulungan teleportasi.&nbsp;Setelah aku memastikan bahwa itu telah dicuri, kami bisa segera pergi.</p>
-<p>“Sial, baiklah.&nbsp;Sudah jelas bahwa aku tidak akan banyak membantu bahkan jika aku menempel pada sang putri …”</p>
-<p>Dia mengangguk seolah dia mengakui batas kemampuannya.&nbsp;Aku masih belum jelas tentang tata letak Kastil Raja Iblis, namun aku ingat beberapa hal ketika aku keluar dari penjara.&nbsp;Tidak ada yang menghentikan kami, karena banyak tentara masuk dan keluar dari Kastil.</p>
-<p>“Lewat sini.”</p>
-<p>Beberapa orang tampak bingung tentang aku berjalan tanpa senjata, tetapi aku tidak bisa menjelaskan hal ini pada masing-masing dari mereka.</p>
-<p>Untungnya, aku bisa melacak langkah ku kembali ke kira-kira di mana itu.</p>
-<p>Kastil Raja Iblis sangat luas dan penjara tempat aku berada dan penyimpanan item sihir terletak jauh di dalam, jadi ada kemungkinan besar itu belum dijarah.</p>
-<p>“Ini sangat besar!”</p>
-<p>Akhirnya aku lelah dan akhirnya menunggangi punggungnya.&nbsp;Aku mengobrak-abrik ingatanku dan menunjukkan arah yang kuingat. Untungnya, kami bisa mencapainya tanpa tersesat.</p>
-<p>“Masih baik-baik saja!”</p>
-<p>Untungnya, itu masih dalam kondisi baik.&nbsp;Sepertinya belum ada yang datang ke sini.</p>
-<p>“…&nbsp;Itu tidak terlihat baik bagiku.&nbsp;Kupikir seseorang sudah ada di sini, kau tahu? ”</p>
-<p>Oh.</p>
-<p>Itu aku.</p>
-<p>“Ah, itu … maksudku gulungan-gulungan itu masih terlihat baik-baik saja!”</p>
-<p>“Oke.&nbsp;Ayo kita cari.”</p>
-<p>Aku segera mengambil gulungan teleportasi yang tersebar di lantai.</p>
-<p>“Aku menemukannya!”</p>
-<p>“Sudah?”</p>
-<p>“Ya, lihat.”</p>
-<p>Nama sihir yang terkandung dalam gulungan itu tertulis di atasnya dalam bahasa yang sama, jadi dia tidak bertanya padaku bagaimana aku bisa menemukannya segera.&nbsp;Jika itu ditulis dalam bahasa Iblis, dia pasti akan mencurigaiku.&nbsp;Aku sudah tahu dua bahasa yang tidak ku ketahui sebelumnya.&nbsp;Itu seperti cheat yang didapat orang ketika mereka dikirim ke dunia lain.</p>
-<p>Aku menyegel kembali gulungan yang belum dipicu.&nbsp;Tentu saja, teleportasi hanya akan bekerja pada satu orang.&nbsp;Aku tidak tahu apakah ada gulungan teleportasi massal, tetapi aku harus menemukan lebih banyak gulungan.</p>
-<p>Tidak hanya Charlotte, aku juga harus keluar dari sini dan mungkin Dyrus juga, karena dia juga dalam bahaya.</p>
-<p>“Aku akan membutuhkan beberapa lagi.&nbsp;Kita tidak tahu apa yang mungkin terjadi.&nbsp;Kita juga harus mendapatkan beberapa gulungan yang mungkin bisa membantu kita juga.”</p>
-<p>“Anak kecil, ambil ini.”</p>
-<p>“Ini, ini …?”</p>
-<p>“Scroll Book, apa ini pertama kalinya kau melihatnya?&nbsp;Itu ada di sana.”</p>
-<p>Dia memberiku sebuah buku kosong.</p>
-<p>“T, tidak, bukan itu.&nbsp;Aku tahu apa ini.”</p>
-<p>“Bagus kalau begitu.&nbsp;Ayo gunakan.”</p>
-<p>Aku tahu apa itu Scroll Book.&nbsp;Itu bahkan bukan benda sihir, hanya sebuah buku yang bisa dimasukkan gulungan ke dalamnya dan mengaturnya sedemikian rupa sehingga seseorang dapat merobek halaman yang dibutuhkan kapan pun seseorang mau.</p>
-<p>Itu adalah objek yang digunakan oleh orang-orang yang bukan penyihir, tetapi masih perlu menggunakan sihir dalam pertempuran.&nbsp;Karena itu adalah item yang kubuat, tidak mungkin aku tidak mengetahuinya. Namun, rasanya sangat aneh benar-benar memegang barang ini yang hanya aku bayangkan di tanganku.</p>
-<p>Itu bagus bahwa aku tidak perlu menghancurkan gulungan-gulungan ini ke dalam saku ku.&nbsp;Aku mulai mengisi Scroll Book dengan mantra sihir yang berguna, sementara Dyrus menemukan buku gulungan lain, mengisinya dengan sihir juga.</p>
-<p>“Kastil Raja Iblis benar-benar luar biasa.&nbsp;Kudengar gulungan tingkat rendah pun lebih mahal daripada gajiku.”</p>
-<p>Dia tampaknya benar-benar mengagumi stok gulungan yang sangat banyak.</p>
-<p>“Kudengar mereka hampir menghabiskan semua gulungan dalam perang ini, tetapi jika kita mengambil semua yang ada di sini, itu akan lebih dari cukup untuk menebus gulungan tingkat rendah yang telah kita gunakan.”</p>
-<p>Dyrus mengobrak-abrik gulungan sambil mengatakan hal-hal seperti itu.</p>
-<p>Tidak ada mantra serangan aoe, tapi kami telah menyapu semua gulungan yang mungkin bisa membantu kami.&nbsp;Aku tidak bisa membawanya sebelumnya karena aku harus membuang semuanya, tetapi sekarang aku benar-benar bisa mengemasnya.</p>
-<p>Gulungan yang berguna Datang.&nbsp;Pada. Ku.</p>
-<p>Lalu aku membuka mataku lebar-lebar saat tiba-tiba ditemukan.</p>
-<p>“Tunggu!”</p>
-<p>“Apa, apa?”</p>
-<p>[Mass Teleportation]</p>
-<p>Pergerakan ruang untuk banyak orang.</p>
-<p>Tidak perlu lagi menemukan lebih banyak gulungan teleportasi.</p>
-<p>“Ayo pergi Letnan!”</p>
-<p>“Ya.&nbsp;Ayo cepat.”</p>
-<p>Kemudian, begitu kami melangkah keluar pintu, kami tidak bisa menahan diri untuk tidak kaku.</p>
-<p>“Hah?”</p>
+<p>Setelah berpisah dengan Kiryūin, dalam perjalanan pulang, aku teringat kembali obrolanku dengan Ichinose pagi ini.</p>
+<p>Aku penasaran apakah dia akan datang ke Keyaki Mall, tapi aku tidak tahu apakah keperluannya itu penting atau tidak.</p>
+<p>Biasanya, aku seharusnya memberitahunya melalui ponsel bahwa aku ada di dalam mal, tapi sepertinya dia menolak untuk itu.</p>
+<p>Selain itu, dari cara bicaranya yang unik, mungkin bisa kusimpulkan bahwa tidak perlu mencarinya karena kami bisa bertemu asalkan aku mengunjungi Keyaki Mall.</p>
+<p>Untuk saat ini, aku memilih untuk tidak mencari Ichinose dan memutuskan untuk pulang dulu.</p>
+<p>Jika kami tidak bertemu sebelum sampai diluar, aku masih bisa kembali lagi.</p>
+<p>Dengan pemikiran itu, aku kembali ke dekat pintu masuk mal.</p>
+<p>Pohon Natal besar yang dipasang di sini. Kemarin banyak teman dan couple yang berfoto di depan pohon ini atau hanya sekedar memandanginya, tapi pohon itu akan disingkirkan besok.</p>
+<p>Kei yang terbaring sakit pasti sangat menyesal, tapi flu diam-diam mulai menyebar dan hampir 20 orang di seluruh sekolah sudah dinyatakan positif, jadi apa boleh buat.</p>
+<p>Saat aku lewat samping pohon itu, ternyata banyak siswa berkumpul di sekitarnya.</p>
+<p>Lebih tepatnya, mungkin saat ini saja bahkan ada lebih banyak siswa sekarang daripada kemarin.</p>
+<p>Di tengah kerumunan itu, aku melihat Ichinose.</p>
+<p>Dikelilingi oleh tiga siswi tahun pertama, dia terlihat sedang asyik mengobrol tersenyum gembira.</p>
+<p>Karena aku tidak berani untuk memanggilnya di sini, jadi aku menjaga jarak sebentar dan mengamatinya.</p>
+<p>Lalu Hoshinomiya-sensei yang kebetulan lewat, dan Chabashira-sensei yang jalan di sampingnya melihatku.</p>
+<p>Saat liburan panjang, para guru akan sering terlihat mengenakan pakaian kasual, tapi aku tidak bisa tidak merasa tidak nyaman ketika melihat Chabashira-sensei yang tetap menggunakan setelan jas.</p>
+<p>“Loh kook? Kamu sendiriaan?”</p>
+<p>Hoshinomiya-sensei adalah yang pertama manggil. Dan setelah itu, Chabashira-sensei mengikutinya.</p>
+<p>“Ya, begitulah.”</p>
+<p>“Kupikir kemarin dan hari ini kamu pasti bermesraan dengan pacarmu. Apa kalian putus?”</p>
+<p>“Jangan menggoda siswa, Chie. Selain itu, Karuizawa itu sedang kena flu.”</p>
+<p>Chabashira-sensei menjelaskan kalau ada masalah, tapi———.</p>
+<p>“Tahu kook.”</p>
+<p>“Jadi kamu menggodanya karena sudah tahu?”<span></span></p>
+<a name="more"></a><p></p>
+<p>“Habisnya bikin kesal, bukan? Masak seorang siswa yang jauh lebih muda ngabisin Natal bareng pacarnya, nggak bisa diterima, bukan?”</p>
+<p>“Sampai tahun lalu kamu juga seperti itu, bukan? Hanya tahun ini saja yang enggak.”</p>
+<p>“Makanya nggak bisa diterima. Mungkin ini pertama kalinya aku bisa memahami perasaanmu, Sae-chan.”</p>
+<p>“Jangan samaain aku denganmu. Aku adalah orang yang nggak keberatan menghabiskan Natal sendirian. Tapi sayang sekali ya, Ayanokōji. Kamu belum bertemu dengan Karuizawa, kan?”</p>
+<p>“Apa boleh buat. Selain itu, aku juga tidak keberatan menghabiskan Natal sendirian.”</p>
+<p>Setelah kujawab begitu, Chabashira-sensei sedikit tersenyum, sebaliknya Hoshinomiya-sensei tampaknya tidak senang.</p>
+<p>Melihat kedua orang yang begitu bertolak belakang ini mengingatkanku pada Mashima-sensei.</p>
+<p>Jika aku memihak salah satu dari mereka, memang benar akan menjadi sangat merepotkan.</p>
+<p>“Sensei, kalian mau pergi kemana habis ini?”</p>
+<p>“Ke tempat karaokee! Soalnya kami para guru juga punya hak untuk bersenang-senang~. Iya, kan~?”</p>
+<p>“Tapi cuman Chie yang mau nyanyi. Aku hanya ikut-ikutan saja.”</p>
+<p>“Eeh~ iya tah? Jadi Sae-chan nggak ikutan senang-senang juga, ya~?”</p>
+<p>“Nggak...”</p>
+<p>Para guru pasti juga merasa tidak suka jika suasana terus-terusan tegang akibat persaingan kelas.</p>
+<p>Sambil saling mengomel, kedua guru itu pergi menuju karaoke.</p>
+<p>Saat aku sibuk dengan hal-hal tersebut, tanpa sadar Ichinose sudah melihat ke arahku.</p>
+<p>Tampaknya percakapan antara gadis-gadis tersebut telah selesai, dan aku malah membuatnya menunggu.</p>
+<p>“Kebetulan, ya, Ayanokōji-kun.”</p>
+<p>“Ya, kebetulan. Sepertinya kamu sangat bersenang-senang bersama para kōhai tahun pertama.”</p>
+<p>“Mereka anak-anak kelas B tahun pertama. Yagami-kun yang merupakan anggota OSIS tiba-tiba dikeluarkan dari sekolah, ‘kan? Dan dampaknya itu masih ada, atau bisa dibilang mereka masih kebingungan. Meski begitu, sepertinya mereka berusaha untuk tetap optimis.”</p>
+<p>Karena sifatnya sebagai orang yang dikirim untuk mengeluarkanku, kelas itu sendiri sepertinya tidak diberi hukuman, tapi kelas menderita kerugian yang tidak bisa dihindari yaitu kekurangan jumlah siswa. Situasi sulit ini kemungkinan akan berlanjut untuk sementara waktu.</p>
+<p>“Sejak kapan kamu di sini?”</p>
+<p>“Sejak sekitar setengah sebelas, kayaknya.”</p>
+<p>Mengingat sebentar lagi jam 12, dia sudah menunggu di tempat ini selama lebih dari satu jam.</p>
+<p>Tidak, mungkin terdengar aneh untuk mengatakan dia sudah menunggu.</p>
+<p>Kegiatan Ichinose hari ini semata-mata berdasarkan prinsip tindakannya sendiri.</p>
+<p>“Hei, Ayanokōji-kun. Maukah kamu foto denganku?”</p>
+<p>Katanya, Ichinose mengeluarkan ponselnya terlihat sedikit malu.</p>
+<p>“Aku berfoto dengan berbagai orang di sini hari ini sebagai kenang-kenangan.”</p>
+<p>Seolah untuk membuktikan kebenarannya, Ichinose membuka folder foto dan menunjukkan yang bertanggal hari ini. Kemudian, memang benar dia berfoto dengan berbagai siswa di depan pohon Natal dengan bahagia.</p>
+<p>Beberapa foto juga menampilkan momen bersama siswa laki-laki dari kelas Ichinose.</p>
+<p>Lalu ada juga foto dengan anak-anak tahun pertama tadi.</p>
+<p>Ichinose bilang kalau dirinya ada di tempat ini untuk membuat kenangan, tapi setelah itu, tujuan sebenarnya terungkap.</p>
+<p>“Tapi———aku ingin berfoto dengan Ayanokōji-kun. Itulah keinginan terbesarku.”</p>
+<p>Ichinose tidak menjelaskan secara detail alasannya, tapi tidak sulit untuk menangkap maksudnya.</p>
+<p>Jika dia hanya menyimpan fotonya denganku saja di ponselnya, itu tidak akan terlihat baik ketika Kei atau orang-orang terdekatnya mengetahui fakta itu.</p>
+<p>Tapi, jika ada foto-foto yang diambil dengan berbagai kenalan dekat, baik pria maupun wanita, maka tidak akan ada masalah bahkan jika dia dimintai untuk memberikan penjelasan.</p>
+<p>Sebenarnya tidak banyak, tapi terlihat ada juga foto berdua dengan anak laki-laki dari kelas lain.</p>
+<p>Mungkin karena mereka senang diajak foto dengan Ichinose, mereka berpose peace sambil malu-malu.</p>
+<p>Tidak ada persamaan dalam tipe anak laki-lakinya, baik dari tahun ajaran mana pun.</p>
+<p>Tampaknya dia menanggapi setiap siswa yang ingin berfoto dengannya, tanpa membeda-bedakannya.</p>
+<p>(Tln: buset, jualan muka cmn demi foto sama Kiyotaka. Biasanya cewek bakal enggan buat difoto orang lain, apalagi foto bareng sama cowok random. Udah jatuh, sejatuh jatuhnya)</p>
+<p>“Jadi... maukah kamu, berfoto denganku?”</p>
+<p>“Tentu saja, tidak ada alasan untuk menolaknya.”</p>
+<p>“Syukurlah.”</p>
+<p>Hanya untuk bisa berfoto denganku, usaha yang dia lakukan tidak main-main.</p>
+<p>“Sebenarnya aku tidak berniat untuk berfoto dengan orang sebanyak ini, tapi sepertinya orang-orang saling ngasih tahu dan banyak dari mereka yang minta berfoto. Sedikit melelahkan.”</p>
+<p>Rupanya rumor mulai menyebar mengenai Ichinose yang ingin berfoto dengan banyak orang.</p>
+<p>“Sudah berapa banyak orang yang ngajak foto?”</p>
+<p>“Eeng, anak-anak tadi mungkin yang ke-43.”</p>
+<p>Ternyata cukup banyak.... Aku bisa menebak kalau foto-foto itu diambil dengan cukup cepat.</p>
+<p>“Rencanya aku mau lanjutin lagi habis ini. Kalau aku berhenti sekarang, pasti akan mencurigakan, bukan?”</p>
+<p>Ichinose bilang bahwa dia tidak ingin meninggalkan jejak apa pun meski tujuannya telah tercapai.</p>
+<p>“Yah, tapi itu masih terlihat mencurigakan dari sudut pandang lain sih.”</p>
+<p>Ichinose mengingat kembali tindakan yang mungkin terlihat aneh dari sudut pandang objektif, dan dia tersenyum.</p>
+<p>Jika aku melakukan hal yang sama, aku pasti akan dianggap sebagai orang yang mencurigakan.</p>
+<p>Tapi, tindakan yang sama terlihat sangat berbeda jika yang melakukannya adalah Ichinose.</p>
+<p>Ichiinose menarik lenganku dan menuntunku untuk menyesuaikan sudut.</p>
+<p>Dia mendekatkan dirinya dan menggunakan kamera depan ponsel di tangannya sendiri.</p>
+<p>Kemudian dia mendekatkan dirinya dan memegang ponselnya dengan tangannya sendiri dalam mode kamera depan.</p>
+<p>“Sekarang, mumpung nggak ada yang lihat...”</p>
+<p>Dia selalu tampak mengamati orang-orang disekitar dan memutuskan bahwa ini adalah waktu yang tepat.</p>
+<p>Ichinose memeluk lenganku, dan mulai mengambil foto.</p>
+<p>Dan setelah itu, kali ini dia mengambil foto dengan jarak agak jauh tanpa memeluk lenganku.</p>
+<p>“Foto pertama nggak akan aku simpan di ponselku... jadi nggak papa, ‘kan?”</p>
+<p>“Minta izin setelah dilakukan?”</p>
+<p>“...Iya. Kalau tidak boleh, aku hapus nih sekarang.”</p>
+<p>“Simpan saja kalau mau. Kalau itu dilihat orang lain, aku tidak akan menyalahkanmu. Bagaimanapun itu nanti salah gunakan, itu adalah tanggung jawabku karena aku yang memberikan izin difoto.”</p>
+<p>“Yakin kamu ngomong gitu? Jika aku salah gunakan, hubunganmu dan Karuizawa-san mungkin akan rusak, loh...?”</p>
+<p>“Jika aku memberi izin untuk difoto dengan mudah, tapi kemudian mengeluh, itu aneh. Benar, ‘kan?”</p>
+<p>Jika aku tidak siap untuk difoto, seharusnya aku tidak memperbolehkannya untuk memfoto.</p>
+<p>Tentu saja, lain cerita jika ada paksaan.</p>
+<p>Kami berada dijarak dekat selama sekitar 10 detik, dan tiba-tiba jarak kami sudah kembali seperti biasa.</p>
+<p>Selama waktu itu, tidak ada yang melihat keintiman kami.</p>
+<p>“Oh iya, Ayanokōji-kun, kemarin kamu ketemu Chihiro-chan, ‘kan?”</p>
+<p>Chihiro yang dia maksud itu Shiranami. Aku teringat kembali saat dia sedang mendengarkan musik memakai headphone.</p>
+<p>“Kamu bisa tahu.”</p>
+<p>“Karena kami sering berkumpul mau itu hari biasa atau libur. Terus, kemarin aku merasa perilaku Chihiro-chan agak berbeda. Aku tidak ada bertanya spesifik, tapi dia bereaksi ketika namamu kusebut, jadi aku pikir dia mungkin bertemu dan bicara denganmu, Ayanokōji.”</p>
+<p>Ichinose yang selalu memperhatikan kondisi mental teman-teman sekelasnya, mungkin akan sangat mudah baginya untuk menyadari perubahan seperti itu.</p>
+<p>“Ngomong-ngomong, berbeda gimana maksudmu? Semoga bukan perubahan yang buruk.”</p>
+<p>“Nggak kok. Aku tidak tahu tentang apa yang kalian bicarakan, tapi kemarin Chihiro-chan terlihat lebih sering tersenyum dari biasanya.”</p>
+<p>Meskipun taruhan itu sedikit berisiko, memberinya peringatan tampaknya berdampak positif.</p>
+<p>“Kalau begitu, baguslah.”</p>
+<p>“Tapi———”</p>
+<p>Aku senang mengetahui pertumbuhan Shiranami, tapi Ichinose tidak hanya sampai situ.</p>
+<p>“Sekarang masih aku yang paling dia pedulikan, tapi jangan terlalu terlibat dengannya, ya? Dia itu gadis yang mudah terpengaruh.”</p>
+<p>Peringatan agar aku tidak menutup jarak dengan Shiranami lebih dari sekarang ini.</p>
+<p>“Kalau kamu mau main sama Chihiro-chan, aku ingin kamu juga mengajakku.”</p>
+<p>(Tln: edan, edan. Udah lacur beneran)</p>
+<p>“Baiklah. Aku pasti akan melakukannya.”</p>
+<p>Apakah itu tanggung jawab sebagai pelindung kelas, atau untuk kepentingannya sendiri.</p>
+<p>(Tln: dan ini MC masih tololnya minta ampun)</p>
+<p>Aku harus hati-hati jika bertemu Shiranami di masa depan.</p>
+<p>“Ichinose-senpai! Ayanokōji-senpai! Selamat siang!”</p>
+<p>“Ah, Nanase-san.”</p>
+<p>Nanase, setelah melihatku dan Ichinose, mendekat dengan agak berlari.</p>
+<p>“Kudengar kalian sedang berfoto bareng di sini, jadi aku datang.”</p>
+<p>Rupanya gosip sudah menyebar hingga sampai ke telinga Nanase.</p>
+<p>“Bisa-bisa situasinya nanti jadi tidak terkendali, ya? Mungkin kamu harus berfoto hingga larut malam.”</p>
+<p>“Ya dijalani saja. Mungkin aku akan menjadi gadis legendaris yang difoto bersama seluruh siswa di depan pohon.”</p>
+<p>Menanggapi lelucon itu, Ichinose membalas dengan lelucon sambil menunjukkan senyumnya.</p>
+<p>“Ayanokōji-senpai mau ikut juga?”</p>
+<p>“Aah, nggak, aku juga dengar gosipnya dan sudah berfoto dengan Ichinose. Aku tidak akan mengganggu.”</p>
+<p>Karena aku tidak ingin ikutan berfoto tanpa alasan, aku memilih untuk mundur.</p>
+<p>“Aku tidak keberatan kok foto bareng-bareng.”</p>
+<p>“Tidak, tidak usah. Aku tidak betah terikat di tempat ini seperti Ichinose, dan tidak banyak orang yang ingin berfoto denganku.”</p>
+<p>Menyadari situasinya, Nanase tidak memaksa dan berdiri berdampingan dengan Ichinose. Keduanya mulai mengatur posisi untuk berfoto, tapi tiba-tiba Nanase menyadari sesuatu dan berhenti bergerak.</p>
+<p>“Maaf, bisa tunggu sebentar?”</p>
+<p>“Hm? Oke, tapi ada apa?”</p>
+<p>Nanase meminta maaf pada Ichinose dan berlari ke arah tertentu.</p>
+<p>Sepertinya di sana ada siswa yang sekelas dengan Nanase, yaitu Hōsen. Dia berjalan sendirian dengan ekspresi menyeramkan, tanpa menatapku.</p>
+<p>Nanase yang mendekati Hōsen seperti anak anjing bicara padanya dan menunjuk ke arah sini.</p>
+<p>“Apa mungkin dia mengajak Hōsen-kun ya?”</p>
+<p>“Kelihatannya... begitu.”</p>
+<p>Mengajak teman sekelas bukan hal yang aneh, tapi yang diajak si Hōsen itu.</p>
+<p>Mau dipikir bagaimana juga, dia bukanlah tipe orang yang mau berfoto bareng.</p>
+<p>Namun, setelah berbicara sebentar dengan Nanase, Hōsen, tanpa mengubah ekspresi menyeramkannya, mengubah arah dan berjalan ke arah kami.</p>
+<p>“Dia ke sini, sepertinya.”</p>
+<p>“Kelihatannya... begitu.”</p>
+<p>Tatapan Hōsen tidak hanya tertuju pada Ichinose, tapi juga padaku yang berdiri di sebelahnya.</p>
+<p>Aku sedang menikmati liburan musim dingin yang santai, jadi aku ingin menghindari masalah yang bisa menjadi sumber konflik.</p>
+<p>“Anu, apa Hōsen-kun boleh ikutan foto juga?”</p>
+<p>“Tentu saja boleh, beneran nih?”</p>
+<p>Kata-kata tersebut berisi pertanyaan Ichinose yaitu, Apa Hōsen juga mau? untuk menegaskan.</p>
+<p>Kata-kata tersebut mencakup konfirmasi Ichinose yang bertanya apakah Hōsen juga menginginkannya.</p>
+<p>Hōsen tak mengucapkan sepatah katapun dan terus melihatku dan Ichinose———dengan wajah menakutkan.</p>
+<p>“Kurasa tidak masalah. Ayo, Hōsen-kun.”</p>
+<p>Kata Nanase, dia dengan sedikit paksa mendorong punggung Hōsen.</p>
+<p>Aku yakin dia akan menolak, tapi ternyata Hōsen mendekat dengan pelan-pelan.</p>
+<p>“Kau terus menatapku sejak tadi. Apa ada sesuatu di wajahku?”</p>
+<p>Tepat ketika kupikir dia akan mengatakan sesuatu, ternyata dia marah padaku sambil melototiku.</p>
+<p>“Enggak, gimana ya———”</p>
+<p>Bagaimana pun juga, ini adalah tindakan yang tidak seperti dirinya. Wajar saja jika aku curiga kalau ada niat lain yang tersembunyi di baliknya.</p>
+<p>“Ha? Kalau mau ngomong sesuatu, ngomong saja.”</p>
+<p>“Bukan apa-apa.”</p>
 <p>“Hah.”</p>
-<p>Mata kami bertemu dengan seorang tentara yang membawa beberapa bundel.</p>
-<p>Tidak, jika dipikir-pikir, bukankah kita akan dilihat sebagai orang yang secara sewenang-wenang mengambil rampasan yang seharusnya menjadi milik militer?&nbsp;Tentu saja, itu adalah kejahatan untuk merebut jarahan tanpa izin.</p>
-<p>Bagaimana jika mereka tidak membiarkan kita pergi?</p>
-<p>Dyrus, aku dan prajurit itu saling memandang dalam diam.</p>
-<p>Dia menggertakkan giginya.&nbsp;Mungkin dia siap menghadapi situasi ekstrem ini.</p>
-<p>Dalam menghadapi misi barunya untuk melindungi sang putri, dia tampak siap untuk melakukan apa saja.&nbsp;Bahkan jika itu berarti harus menaklukkan sekutunya sendiri tepat di tempat.</p>
-<p>“Itu.&nbsp;Letnan.”</p>
-<p>Prajurit itu dengan hati-hati membuka mulutnya setelah memeriksa pangkat Dyrus.</p>
-<p>“Bagaimana kalau kita menutup mata satu sama lain?”</p>
-<p>…&nbsp;Kau juga?</p>
-<p>&nbsp;</p>
-<p>***</p>
-<p>Tl/n : Lol.</p>
+<p>Ketika aku mundur, Hōsen hanya tersenyum sinis dan mengalihkan tatapannya.</p>
+<p>Intensitas yang tak terlihat seperti berasal dari siswa tahun pertama. Jika aku menyinggungnya, mungkin aku akan ditikam dengan pisau.</p>
+<p>Meskipun ada sedikit kata-kata kasar, Hōsen dan Nanase selesai berfoto bersama Ichinose.</p>
+<p>Hōsen tampak seperti hendak mengatakan sesuatu, tapi ia memasukkan tangannya ke dalam saku dan mulai berjalan.</p>
+<p>“Apa itu tadi?”</p>
+<p>Di saat aku tidak paham, Nanase mendekatiku dan berbisik dengan suara yang hanya bisa di dengar olehku.</p>
+<p>“Sebenarnya Hōsen-kun, cukup menyukai Ichinose-senpai.”</p>
+<p>“...Serius?”</p>
+<p>Bukan berarti tidak mungkin, tapi kelihatannya tidak seperti itu. Yak, aku sudah merasa aneh waktu dia mau saja berdiri bersebelahan dengan Ichinose untuk berfoto, tapi itu adalah cerita yang mengejutkan.</p>
+<p>“Aku dengar dia sedang berfoto-foto di sini, jadi aku datang untuk melihatnya.”</p>
+<p>Jadi itu bukan kebetulan, tapi direncanakan.</p>
+<p>“Yak, tapi apa ini bukan kebetulan?”</p>
+<p>“Kurasa bukan. Aku datang ke Keyaki Mall karena Hōsen memanggilku. Mungkin dia tidak bisa mendekati Ichinose sendirian, jadi dia memanfaatkanku.”</p>
+<p>Jika itu sudah diperhitungkan, apa dia benar-benar hanya ingin berfoto dengan Ichinose?</p>
+<p>(Tln: sip, Hōsen punya bacol)</p>
+<p>Setidaknya, dari apa yang kulihat tadi, sikap Hōsen tidak menunjukkan itu.</p>
+<p>Karena aku tidak bisa melihat Hōsen lagi, aku tidak punya cara untuk memastikannya lebih lanjut.</p>
+<p>“Ah, Ichinose~. Foto denganku juga yuk!”</p>
+<p>Dua gadis siswa tahun ketiga mendekati Ichinose sambil melambaikan tangan.</p>
+<p>Jangan-jangan, selama dia tetap di tempat, yang minta berfoto dengannya akan terus bertambah.</p>
+<p>Aku membungkuk sedikit pada senpai dan memutuskan untuk menjauh.</p>
+<p>“Sampai jumpa, Ayanokōji-kun.”</p>
+<p>Ichinose melambaikan tangan pelan kepadaku dan dengan alami mengalihkan perhatiannya ke senpai.</p>
+<p>Ini mungkin menjadi sesuatu yang cukup besar, tapi aku dari 43 orang... ditambah aku, Nanase, dan Hōsen, aku hanyalah satu orang dari 46 orang yang ada.</p>
 
 ---
