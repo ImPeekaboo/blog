@@ -6,6 +6,15 @@ SPDX-License-Identifier: LGPL-2.1-or-later
 
 ---
 
+## [20240708] Use me as your radio
+
+<a href="/assets/images/20240708.jpg" class="container" data-lightbox="gallery" data-title="[20240708] Use me as your radio">
+  <img class="lazyload" data-src="/assets/images/20240708.jpg" alt="moona-240708"/>
+</a>
+<a href="../moona-240708/" class="button" role="button">
+  Streaming Here
+</a>
+
 ## [20240519] Nighty Sing
 
 <a href="/assets/images/20240519.jpg" class="container" data-lightbox="gallery" data-title="[20240519] Nighty Sing">
