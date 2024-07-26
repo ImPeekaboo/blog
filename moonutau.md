@@ -6,6 +6,15 @@ SPDX-License-Identifier: LGPL-2.1-or-later
 
 ---
 
+## [20240724] time for MoonUtau radio!
+
+<a href="/assets/images/20240724.jpg" class="container" data-lightbox="gallery" data-title="[20240724] time for MoonUtau radio!">
+  <img class="lazyload" data-src="/assets/images/20240724.jpg" alt="moona-240724"/>
+</a>
+<a href="../moona-240724/" class="button" role="button">
+  Streaming Here
+</a>
+
 ## [20240708] Use me as your radio
 
 <a href="/assets/images/20240708.jpg" class="container" data-lightbox="gallery" data-title="[20240708] Use me as your radio">
