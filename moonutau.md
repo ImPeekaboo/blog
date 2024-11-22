@@ -6,6 +6,15 @@ SPDX-License-Identifier: LGPL-2.1-or-later
 
 ---
 
+## [20241110] MOONUTAU TIME!!!
+
+<a href="/assets/images/20241110.jpg" class="container" data-lightbox="gallery" data-title="[20241110] MOONUTAU TIME!!!">
+  <img class="lazyload" data-src="/assets/images/20241110.jpg" alt="moona-241110"/>
+</a>
+<a href="../moona-241110/" class="button" role="button">
+  Streaming Here
+</a>
+
 ## [20240724] time for MoonUtau radio!
 
 <a href="/assets/images/20240724.jpg" class="container" data-lightbox="gallery" data-title="[20240724] time for MoonUtau radio!">
